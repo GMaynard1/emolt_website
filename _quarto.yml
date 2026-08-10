@@ -2,18 +2,21 @@ project:
   type: website
 
 website:
-  title: "emolt_website"
-  navbar:
+  title: "eMOLT"
+  navbar: 
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: signup.qmd
+        text: Sign Up
+        
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    email-obfuscation: none
 
 editor: visual
 
