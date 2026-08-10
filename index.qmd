@@ -6,6 +6,7 @@ format:
   html:
     page-layout: full
 about:
+  template: trestles
   image: images/eMOLT_Logo.png
 ---
 
