@@ -1,5 +1,10 @@
 ---
-title: "emolt_website"
+title: "eMOLT Program"
+pagetitle: "eMOLT"
+subtitle: "environmental Monitors on Lobster Traps and Large Trawlers"
+format: 
+  html:
+    page-layout: full
 ---
 
 This is a Quarto website.
