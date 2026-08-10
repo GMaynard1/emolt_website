@@ -5,8 +5,34 @@ subtitle: "environmental Monitors on Lobster Traps and Large Trawlers"
 format: 
   html:
     page-layout: full
-  about:
-    image: images/eMOLT_Logo.png
+about:
+  image: images/eMOLT_Logo.png
 ---
 
+<!--First Row with 'hero' style -->
+::: {.hero-chunk}
+
+::: {.container}
+
+::: {.row .align-items-center}
+
+<!-- LEFT COLUMN: Text and Metadata -->
+::: {.col-md-6 .text-start}
+
+<p class="subtitle">A Cooperative Ocean Observing Product</p>
+
+<p class="lead-text">Transforming raw information into impactful, real-world tools.</p>
+
+**FIShBOT** was built to increase access to observations of underwater conditions collected by both fishing and science communities.
+All bottom data are standardized into a gridded dataset and updated every 24 hours.
+
+::: {.info-box}
+<i class="bi bi-calendar-range"></i> **Temporal Range:** 2000-01-01 – Present  
+
+<i class="bi bi-geo-alt-fill"></i> **Spatial Domain:** Western Gulf of Maine to Cape Hatteras
+
+![](images/fishbot-in-numbers.png)
+:::
+
+:::
 
