@@ -47,3 +47,12 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# From Sarah's demo
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/
+**/*.quarto_ipynb
