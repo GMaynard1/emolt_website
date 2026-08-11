@@ -17,18 +17,60 @@ Now jointly administered by NOAA's Northeast Fisheries Science Center and the Gu
 The eMOLT Program provides loggers and deckboxes to fishermen at no cost. Loggers are affixed to fishing gear, and deckboxes are installed in the wheelhouse. Each time the gear is hauled back, the logger offloads to the deckbox via bluetooth so the fishermen can see the data right away. When the deckbox connects to the internet, it automatically transfers the data to the Gulf of Maine Lobster Foundation's servers where it is QA/QC'd and anonymized before being made publicly available. This hands-free system allows for fishermen to collect critically needed environmental data to advance our collective understanding of how changing ocean conditions are affecting fisheries resources and fishing practices.
 
 :::{#slide-carousel .carousel .slide data-bs-ride="carousel"}
-::: .carousel-inner
-::: {.carousel-item .active}
-![](images/installation/1000004324.jpeg){width="100%"}
-:::
+::: {.carousel-inner}
 
-::: .carousel-item
-![](images/installation/IMG_20220622_155048304_HDR.jpg){width="100%"}
+::: {.carousel-item .active}
+![](images/installation/install_carousel01.jpg){width="100%"}
 :::
 
 ::: {.carousel-item}
-![](images/installation/unnamed.jpg){width="100%"}
+![](images/installation/install_carousel02.jpg){width="100%"}
 :::
+
+::: {.carousel-item}
+![](images/installation/install_carousel03.jpg){width="100%"}
+:::
+
+::: {.carousel-item}
+![](images/installation/install_carousel04.jpg){width="100%"}
+:::
+
+::: {.carousel-item}
+![](images/installation/install_carousel05.jpg){width="100%"}
+:::
+
+::: {.carousel-item}
+![](images/installation/install_carousel06.jpg){width="100%"}
+:::
+
+::: {.carousel-item}
+![](images/installation/install_carousel07.jpg){width="100%"}
+:::
+
+::: {.carousel-item}
+![](images/installation/install_carousel08.jpg){width="100%"}
+:::
+
+::: {.carousel-item}
+![](images/installation/install_carousel09.jpg){width="100%"}
+:::
+
+::: {.carousel-item}
+![](images/installation/install_carousel10.jpg){width="100%"}
+:::
+
+::: {.carousel-item}
+![](images/installation/install_carousel11.jpg){width="100%"}
+:::
+
+::: {.carousel-item}
+![](images/installation/install_carousel12.jpg){width="100%"}
+:::
+
+::: {.carousel-item}
+![](images/installation/install_carousel13.jpg){width="100%"}
+:::
+
 :::
 
 <button class="carousel-control-prev" type="button" data-bs-target="#slide-carousel" data-bs-slide="prev">
@@ -39,25 +81,29 @@ The eMOLT Program provides loggers and deckboxes to fishermen at no cost. Logger
   <span class="carousel-control-next-icon" aria-hidden="true"></span>
   <span class="visually-hidden">Next</span>
 </button>
+
 :::
+
 <div style="clear: both; min-height: 20px;"></div>
 
 ## Meet your Local Tech Support Team
 
-:::::: {layout-ncol="2"}
+::::: {layout-ncol="2"}
 <div>
+
 [Downeast Maine](tech_teams/downeast.qmd){.btn .btn-success role="button"}
 
-[Mid-Coast and Southern ME, NH, and North Shore MA](tech_teams/sme.qmd){.btn .btn-success role="button"}
+[Mid-Coast and Southern ME, NH, and North Shore MA](tech_teams/sme.qmd){.btn .btn-primary role="button"}
 
 </div>
 
 <div>
 
-[South Shore MA, Cape Cod, and the Islands](tech_teams/ssci.qmd){.btn .btn-success role="button"}
+[South Shore MA, Cape Cod, and the Islands](tech_teams/ssci.qmd){.btn .btn-danger role="button"}
 
-[South Coast MA, RI, and CT](tech_teams/scri.qmd){.btn .btn-success role="button"}
+[South Coast MA, RI, and CT](tech_teams/scri.qmd){.btn .btn-warning role="button"}
 
-[Mid-Atlantic](tech_teams/ma.qmd){.btn .btn-success role="button"}
+[Mid-Atlantic](tech_teams/ma.qmd){.btn .btn-info role="button"}
+
 </div>
-::::::
+:::::
