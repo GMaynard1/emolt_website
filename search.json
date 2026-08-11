@@ -18,14 +18,14 @@
     "href": "about.html#meet-your-local-tech-support-team",
     "title": "About",
     "section": "Meet your Local Tech Support Team",
-    "text": "Meet your Local Tech Support Team\nDowneast Maine\n\nMid-Coast and Southern ME, NH, and North Shore MA\nSouth Shore MA, Cape Cod, and The Islands\nSouth Coast MA, RI, and CT\nMid-Atlantic"
+    "text": "Meet your Local Tech Support Team\n\n\n\n\n\n\nDowneast Maine\nMid-Coast and Southern ME, NH, and North Shore MA\n\n\nSouth Shore MA, Cape Cod, and the Islands\nSouth Coast MA, RI, and CT\nMid-Atlantic"
   },
   {
     "objectID": "tech_teams/downeast.html",
     "href": "tech_teams/downeast.html",
     "title": "Downeast Maine Tech Support",
     "section": "",
-    "text": "Emma Weed\n Emma Weed is the Program Director at the Gulf of Maine Lobster Foundation. She grew up in Stonington, Maine in a multi-generational fishing family and recently earned a Master of Science in Program Management at Northeastern University’s Roux Institute.\n\n\n\nEmail\nLinkedIn\n\n\n\n\n\nDr. Andrew Goode\n Dr. Andrew Goode is a postdoctoral scholar at the University of Maine who previously worked as a commercial lobsterman.\n\n\n\nEmail"
+    "text": "Emma Weed\n\nEmma Weed is the Program Director at the Gulf of Maine Lobster Foundation. She grew up in Stonington, Maine in a multi-generational fishing family and recently earned a Master of Science in Program Management at Northeastern University’s Roux Institute.\n\nEmail\nLinkedIn\n\n\n\nDr. Andrew Goode\n\nDr. Andrew Goode is a postdoctoral scholar at the University of Maine who previously worked as a commercial lobsterman. His research works to better understand the factors controlling lobster populations, and find ways to use this information to better anticipate and plan against climate change impacts to the resource and fishery.\n\nEmail"
   },
   {
     "objectID": "signup.html",
@@ -33,5 +33,40 @@
     "title": "Sign Up",
     "section": "",
     "text": "Want an eMOLT system for your boat or know somebody else who does? Sign up here to get on our wait list and be notified next time hardware is available for your gear type and geographic location.\n\nLoading…"
+  },
+  {
+    "objectID": "tech_teams/sme.html",
+    "href": "tech_teams/sme.html",
+    "title": "Midcoast, Southern ME, NH, and North Shore Tech Support",
+    "section": "",
+    "text": "Erin Pelletier\n\nErin has been with GOMLF since 2003, and was promoted to Executive Director in 2007. During that time, she has worked to create robust collaborations between industry members, managers, and scientists in the Gulf of Maine waters. Erin services eMOLT systems in ports throughout Maine, New Hampshire, and Massachusetts. In addition to tech support, Erin also provides the bulk of the administrative support to the eMOLT Program making sure the bills are paid, the data keep flowing, and the cats get herded.\n\nEmail\n\n\n\nJack Carroll\n\nJack handles Operations and Technical Development for Ocean Data Network and is a part time commercial fisherman. He is a National Marine Electronics Association (NMEA) certified installer who has installed deckboxes on vessels around the world. Jack services eMOLT systems in Portland and Gloucester.\n\nEmail\nLinkedIn"
+  },
+  {
+    "objectID": "tech_teams/ssci.html",
+    "href": "tech_teams/ssci.html",
+    "title": "South Shore MA, Cape Cod, and the Islands",
+    "section": "",
+    "text": "Huanxin Xu\n\nHuanxin is the Technical Director for the Gulf of Maine Lobster Foundation and has played an active role in developing the software and hardware that support the eMOLT Program over the last decade. Huanxin provides dockside support to vessels from New Hampshire to Rhode Island, and remotely provides software updates and troubleshooting support to vessels around the region.\n\nEmail\n\n\n\nOwen Nichols\n\nOwen is the Director of Marine Fisheries Research at the Center for Coastal Studies. A proponent of cooperative research, he has worked on the water with fishermen and aquaculturists for over two decades on a variety of projects. Owen provides support for eMOLT systems on Cape Cod.\n\nEmail\n\n\n\nDr. George Maynard\n\nGeorge is the eMOLT Coordinator at the Northeast Fisheries Science Center. He assists with dockside support throughout Southern New England and provides remote support for eMOLT systems and dockside tech teams between Maine and North Carolina. George also works with partners to secure funding for the program and ensure data delivery to end users.\n\nEmail\nLinkedIn"
+  },
+  {
+    "objectID": "tech_teams/scri.html",
+    "href": "tech_teams/scri.html",
+    "title": "South Coast MA, Rhode Island, and Connecticut",
+    "section": "",
+    "text": "Cassandra Tillotson\n\nCassie is a Research Assistant at the Coonamessett Farm Foundation where she supports a number of at-sea cooperative research projects. Cassie provides technical support to eMOLT participants on the South Coast of Massachusetts and Cape Cod.\n\nEmail\n\n\n\nDr. Samir Patel\n\nSamir is a Senior Research Biologist at the Coonamessett Farm Foundation where he manages a number of cooperative research projects offshore and around Cape Cod. Samir provides technical support for eMOLT participants on the South Shore and the South Coast of Massachusetts. - Email\n\n\nLuca McGinnis\n\nLuca McGinnis is a Research Biologist at the Commercial Fisheries Research Foundation where they work at sea on projects related to wind farm monitoring and biological data collection. They also provide technical support for eMOLT participants in Rhode Island and New Bedford.\n\nEmail\nLinkedIn\n\n\n\nDr. Sarah Salois\n\nSarah is a Fisheries Biologist at the Northeast Fisheries Science Center’s Narragansett Lab who supports cooperative research on commercially valuable forage species both at sea and in the lab. Sarah provides dockside support to eMOLT partners in Rhode Island and Connecticut, and develops new data products using observations from the program.\n\nEmail\nLinkedIn"
+  },
+  {
+    "objectID": "tech_teams/ma.html",
+    "href": "tech_teams/ma.html",
+    "title": "Mid-Atlantic",
+    "section": "",
+    "text": "Joey O’Brien\n\nJoey is a laboratory researcher at the Haskin Shellfish Research Laboratory who works on cooperative research supporting fisheries management, aquaculture, and offshore development. Joey provides technical support to eMOLT Participants in Maryland and New Jersey.\n\nEmail\n\n\n\nLinus Stoltz\n\nLinus is the Data Manager for the Commercial Fisheries Research Foundation. In addition to providing technical support for eMOLT participants in North Carolina, he also develops novel data products using observations from the eMOLT Program and complimentary projects at CFRF.\n\nEmail"
+  },
+  {
+    "objectID": "about.html#how-does-it-work",
+    "href": "about.html#how-does-it-work",
+    "title": "About",
+    "section": "How does it work?",
+    "text": "How does it work?\n\nThe eMOLT Program provides loggers and deckboxes to fishermen at no cost. Loggers are affixed to fishing gear, and deckboxes are installed in the wheelhouse. Each time the gear is hauled back, the logger offloads to the deckbox via bluetooth so the fishermen can see the data right away. When the deckbox connects to the internet, it automatically transfers the data to the Gulf of Maine Lobster Foundation’s servers where it is QA/QC’d and anonymized before being made publicly available. This hands-free system allows for fishermen to collect critically needed environmental data to advance our collective understanding of how changing ocean conditions are affecting fisheries resources and fishing practices.\n\n\n\n\n\n\n\n\n\n\n\n\n\n Previous\n\n\n Next"
   }
 ]

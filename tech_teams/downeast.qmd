@@ -2,18 +2,29 @@
 title: "Downeast Maine Tech Support"
 ---
 
-::: {layout-ncol="2"}
+::::: {layout-ncol="2"}
+<div>
+
 ### Emma Weed
 
-![](emma-weed.jpg) Emma Weed is the Program Director at the Gulf of Maine Lobster Foundation. She grew up in Stonington, Maine in a multi-generational fishing family and recently earned a Master of Science in Program Management at Northeastern University's Roux Institute. 
+![](emma-weed.jpg)
 
-- [Email](mailto:emma@gomlf.org)
-- [LinkedIn](https://www.linkedin.com/in/ACoAACYNdfoB4HmaELnV-HzoNrCKTaWGtFko94c?skipRedirect=true&miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACYNdfoB4HmaELnV-HzoNrCKTaWGtFko94c)
+Emma Weed is the Program Director at the Gulf of Maine Lobster Foundation. She grew up in Stonington, Maine in a multi-generational fishing family and recently earned a Master of Science in Program Management at Northeastern University's Roux Institute.
+
+-   [Email](mailto:emma@gomlf.org)
+-   [LinkedIn](https://www.linkedin.com/in/ACoAACYNdfoB4HmaELnV-HzoNrCKTaWGtFko94c?skipRedirect=true&miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACYNdfoB4HmaELnV-HzoNrCKTaWGtFko94c)
+
+</div>
+
+<div>
 
 ### Dr. Andrew Goode
 
-![](andrew-goode.jpeg) Dr. Andrew Goode is a postdoctoral scholar at the University of Maine who previously worked as a commercial lobsterman.
+![](andrew-goode.jpeg)
 
-- [Email](mailto:andrew.goode@maine.edu)
+Dr. Andrew Goode is a postdoctoral scholar at the University of Maine who previously worked as a commercial lobsterman. His research works to better understand the factors controlling lobster populations, and find ways to use this information to better anticipate and plan against climate change impacts to the resource and fishery.
 
-:::
+-   [Email](mailto:andrew.goode@maine.edu)
+
+</div>
+:::::
