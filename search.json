@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "emolt_website",
+    "title": "eMOLT",
     "section": "",
     "text": "A Cooperative Ocean Observing Program\n\nThe environmental Monitors on Lobster Traps and Large Trawlers (eMOLT) Program is a collaborative effort between government agencies, academic institutions, non-profits, tech companies, and the commercial fishing industry in the Northeastern United States that aims to provide high quality, subsurface ocean measurements around the region in near-real time. Jointly administered by NOAA’s Northeast Fisheries Science Center and the Gulf of Maine Lobster Foundation since 2001, the eMOLT Program relies on a distributed network of dockside technicians to help our partners in the fishing industry maintain the sensors aboard their vessels so that the resulting data can be used for fishing decision making, ocean forecasting, and fisheries stock assessments."
   },
@@ -18,6 +18,20 @@
     "href": "about.html#meet-your-local-tech-support-team",
     "title": "About",
     "section": "Meet your Local Tech Support Team",
-    "text": "Meet your Local Tech Support Team\n\nDowneast ME\nMid-Coast and Southern ME, NH, and North Shore MA\nSouth Shore MA, Cape Cod, and The Islands\nSouth Coast MA, RI, and CT\nMid-Atlantic"
+    "text": "Meet your Local Tech Support Team\nDowneast Maine\n\nMid-Coast and Southern ME, NH, and North Shore MA\nSouth Shore MA, Cape Cod, and The Islands\nSouth Coast MA, RI, and CT\nMid-Atlantic"
+  },
+  {
+    "objectID": "tech_teams/downeast.html",
+    "href": "tech_teams/downeast.html",
+    "title": "Downeast Maine Tech Support",
+    "section": "",
+    "text": "Emma Weed\n Emma Weed is the Program Director at the Gulf of Maine Lobster Foundation. She grew up in Stonington, Maine in a multi-generational fishing family and recently earned a Master of Science in Program Management at Northeastern University’s Roux Institute.\n\n\n\nEmail\nLinkedIn\n\n\n\n\n\nDr. Andrew Goode\n Dr. Andrew Goode is a postdoctoral scholar at the University of Maine who previously worked as a commercial lobsterman.\n\n\n\nEmail"
+  },
+  {
+    "objectID": "signup.html",
+    "href": "signup.html",
+    "title": "Sign Up",
+    "section": "",
+    "text": "Want an eMOLT system for your boat or know somebody else who does? Sign up here to get on our wait list and be notified next time hardware is available for your gear type and geographic location.\n\nLoading…"
   }
 ]
