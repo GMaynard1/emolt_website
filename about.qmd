@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-![](images/emolt_keyboard.jpg)
+![](images/about_screen.png)
 
 The eMOLT Program began in 1996 when JiM Manning, an oceanographer at NOAA's Northeast Fisheries Science Center began mailing small temperature loggers to lobstermen to zip-tie into their traps. The program began to scale up around 2001 when JiM joined forces with Erin Pelletier at the Gulf of Maine Lobster Foundation. Eventually, small sensors zip-tied into lobster traps monitored bottom temperature at over 400 sites around the region.
 
@@ -16,75 +16,76 @@ Now jointly administered by NOAA's Northeast Fisheries Science Center and the Gu
 
 The eMOLT Program provides loggers and deckboxes to fishermen at no cost. Loggers are affixed to fishing gear, and deckboxes are installed in the wheelhouse. Each time the gear is hauled back, the logger offloads to the deckbox via bluetooth so the fishermen can see the data right away. When the deckbox connects to the internet, it automatically transfers the data to the Gulf of Maine Lobster Foundation's servers where it is QA/QC'd and anonymized before being made publicly available. This hands-free system allows for fishermen to collect critically needed environmental data to advance our collective understanding of how changing ocean conditions are affecting fisheries resources and fishing practices.
 
-:::{#slide-carousel .carousel .slide data-bs-ride="carousel"}
-::: {.carousel-inner}
-
+::::::::::::::::: {#slide-carousel .carousel .slide data-bs-ride="carousel"}
+:::::::::::::::: carousel-inner
 ::: {.carousel-item .active}
 ![](images/installation/install_carousel01.jpg){width="100%"}
 :::
 
-::: {.carousel-item}
+::: carousel-item
 ![](images/installation/install_carousel02.jpg){width="100%"}
 :::
 
-::: {.carousel-item}
+::: carousel-item
 ![](images/installation/install_carousel03.jpg){width="100%"}
 :::
 
-::: {.carousel-item}
+::: carousel-item
 ![](images/installation/install_carousel04.jpg){width="100%"}
 :::
 
-::: {.carousel-item}
+::: carousel-item
 ![](images/installation/install_carousel05.jpg){width="100%"}
 :::
 
-::: {.carousel-item}
+::: carousel-item
 ![](images/installation/install_carousel06.jpg){width="100%"}
 :::
 
-::: {.carousel-item}
+::: carousel-item
 ![](images/installation/install_carousel07.jpg){width="100%"}
 :::
 
-::: {.carousel-item}
+::: carousel-item
 ![](images/installation/install_carousel08.jpg){width="100%"}
 :::
 
-::: {.carousel-item}
+::: carousel-item
 ![](images/installation/install_carousel09.jpg){width="100%"}
 :::
 
-::: {.carousel-item}
+::: carousel-item
 ![](images/installation/install_carousel10.jpg){width="100%"}
 :::
 
-::: {.carousel-item}
+::: carousel-item
 ![](images/installation/install_carousel11.jpg){width="100%"}
 :::
 
-::: {.carousel-item}
+::: carousel-item
 ![](images/installation/install_carousel12.jpg){width="100%"}
 :::
 
-::: {.carousel-item}
+::: carousel-item
 ![](images/installation/install_carousel13.jpg){width="100%"}
 :::
-
-:::
+::::::::::::::::
 
 <button class="carousel-control-prev" type="button" data-bs-target="#slide-carousel" data-bs-slide="prev">
-  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-  <span class="visually-hidden">Previous</span>
+
+[Previous]{.visually-hidden}
+
 </button>
+
 <button class="carousel-control-next" type="button" data-bs-target="#slide-carousel" data-bs-slide="next">
-  <span class="carousel-control-next-icon" aria-hidden="true"></span>
-  <span class="visually-hidden">Next</span>
+
+[Next]{.visually-hidden}
+
 </button>
+:::::::::::::::::
 
+::: {style="clear: both; min-height: 20px;"}
 :::
-
-<div style="clear: both; min-height: 20px;"></div>
 
 ## Meet your Local Tech Support Team
 
