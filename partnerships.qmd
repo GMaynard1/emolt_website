@@ -49,6 +49,10 @@ The eMOLT Program could not exist without the support of collaborators around th
 :::
 
 ::: carousel-item
+![[Maine Sea Grant](https://seagrant.umaine.edu/)](images/logos/mesg.jpg){height="300px"}
+:::
+
+::: carousel-item
 ![[Marine Biological Laboratory](https://www.mbl.edu/)](images/logos/MBL.png){height="300px"}
 :::
 
@@ -62,6 +66,10 @@ The eMOLT Program could not exist without the support of collaborators around th
 
 ::: carousel-item
 ![[Massachusetts Maritime Academy](https://www.maritime.edu/)](images/logos/massachusettsmaritime.png){height="300px"}
+:::
+
+::: carousel-item
+![[Northeastern Regional Association of Coastal Ocean Observing Systems](https://neracoos.org/)](images/logos/neracoos.jpg){height="300px"}
 :::
 
 ::: carousel-item
@@ -86,6 +94,10 @@ The eMOLT Program could not exist without the support of collaborators around th
 
 ::: carousel-item
 ![[Woods Hole Oceanographic Institution](https://www.whoi.edu/)](images/logos/whoi.png){height="300px"}
+:::
+
+::: carousel-item
+![[Woods Hole Sea Grant](https://seagrant.whoi.edu/)](images/logos/whsg.png){height="300px"}
 :::
 :::::::::::::::::::::
 
