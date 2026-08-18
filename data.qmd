@@ -6,7 +6,7 @@ In an effort to protect the privacy of the fishermen who participate in the eMOL
 
 ![Bottom temperature measurements collected by eMOLT Program participants in the last month](https://erddap.emolt.net/erddap/tabledap/eMOLT_RT.largePng?longitude,latitude,temperature,depth&time%3Enow-30days&segment_type=3&orderByDescending(%22depth%22)&.draw=markers&.marker=11%7C7&.color=0x000000&.colorBar=KT_thermal%7C%7C%7C%7C%7C&.bgColor=0xffccccff)
 
-::::: {layout-ncol="3"}
+::::: {layout-ncol="2"}
 <div>
 ### [Cape Cod Ocean Watch](https://ccocean.whoi.edu/)
 
@@ -16,16 +16,22 @@ Interact with anonymized, quality-controlled data from the eMOLT Program and oth
 
 </div>
 <div>
-### [Gulf of Maine Lobster Foundation ERDDAP](https://erddap.emolt.net/erddap/index.html)
-
-![](screenshots/erddap.png)
-Programmatically access anonymized data from the eMOLT Program using an ERDDAP server as an API. This tool is best for people who want to pull data into analyses using Python or R. The data can be accessed in a filtered version (quality checks already applied, only good data returned) or unfiltered version (quality checks applied, all data returned).
-</div>
-<div>
 ### [Gulf of Maine Lobster Foundation Portal](https://www.portal.emolt.net/)
 
 ![](screenshots/portal.png)
 
 Captains and vessel owners participating in the eMOLT Program have access to a password protected, interactive online portal where they can see data from their vessels in much greater detail. This tool was developed by our partners at Ocean Data Network with funding from the Massachusetts Technology Collaborative. Click the link above to log in or request an account. 
+</div>
+<div>
+### [Gulf of Maine Lobster Foundation ERDDAP](https://erddap.emolt.net/erddap/index.html)
+
+![](screenshots/erddap.png)
+Programmatically access anonymized data from the realtime eMOLT Program using an ERDDAP server as an API. This tool is best for people who want to pull data into analyses using Python or R. The data can be accessed in a filtered version (quality checks already applied, only good data returned) or unfiltered version (quality checks applied, all data returned).
+</div>
+<div>
+### [Northeast Fisheries Science Center ERDDAP](https://comet.nefsc.noaa.gov/erddap/index.html)
+
+![](screenshots/erddap2.png)
+Programmatically access anonymized data from the first few decades of the non-realtime eMOLT Program using an ERDDAP server as an API. This tool is best for people who want to pull data into analyses using Python or R. These data include bottom temperature only and depths are estimated by the fishermen who deployed the sensors.
 </div>
 :::::
