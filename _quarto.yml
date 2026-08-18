@@ -4,6 +4,7 @@ project:
 
 website:
   title: "eMOLT"
+  favicon: images/eMOLT_Logo.jpg
   navbar: 
     left:
       - href: about.qmd
