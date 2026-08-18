@@ -5,9 +5,6 @@ toc: true
 about:
   template: trestles
   image: images/eMOLT_Logo.png
-  links: 
-    - icon: linkedin
-      href: https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7258203580950630400
 ---
 
 <p class="subtitle">

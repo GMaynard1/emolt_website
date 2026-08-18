@@ -29,6 +29,9 @@ website:
       - text: Find us on LinkedIn
       - icon: linkedin
         href: https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7258203580950630400
+    right:
+      - text: Documentation
+        href: wiki/landing.qmd
         
 
 format:

@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./images/eMOLT_Logo.jpg" rel="icon" type="image/jpeg">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -158,7 +159,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>In an effort to protect the privacy of the fishermen who participate in the eMOLT Program, we do not make all of the data collected through the program public. Options for data access are described below.</p>
+<p>In an effort to protect the privacy of the fishermen who participate in the eMOLT Program, we do not make all of the data collected through the program public. Realtime eMOLT data are served through the Gulf of Maine Lobster Foundation’s ERDDAP server which is the access point for some of the interactive data visualizations as well. Other ERDDAP servers that mirror or link to eMOLT data are also listed.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://erddap.emolt.net/erddap/tabledap/eMOLT_RT.largePng?longitude,latitude,temperature,depth&amp;time%3Enow-30days&amp;segment_type=3&amp;orderByDescending(%22depth%22)&amp;.draw=markers&amp;.marker=11%7C7&amp;.color=0x000000&amp;.colorBar=KT_thermal%7C%7C%7C%7C%7C&amp;.bgColor=0xffccccff" class="img-fluid figure-img"></p>
@@ -170,25 +171,36 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="quarto-layout-panel" data-layout-ncol="2">
 <div class="quarto-layout-row">
+<section id="gulf-of-maine-lobster-foundation-erddap" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<h3 class="anchored" data-anchor-id="gulf-of-maine-lobster-foundation-erddap"><a href="https://erddap.emolt.net/erddap/index.html">Gulf of Maine Lobster Foundation ERDDAP</a></h3>
+<p><img src="screenshots/erddap.png" class="img-fluid"> Programmatically access anonymized data from the realtime eMOLT Program using an ERDDAP server as an API. This tool is best for people who want to pull data into analyses using Python or R. The data can be accessed in a filtered version (quality checks already applied, only good data returned) or unfiltered version (quality checks applied, all data returned). Data from this source are used to power the interactive dashboards below.</p>
+</section>
+<section id="northeast-fisheries-science-center-erddap" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<h3 class="anchored" data-anchor-id="northeast-fisheries-science-center-erddap"><a href="https://comet.nefsc.noaa.gov/erddap/index.html">Northeast Fisheries Science Center ERDDAP</a></h3>
+<p><img src="screenshots/erddap2.png" class="img-fluid"> Programmatically access anonymized data from the first few decades of the non-realtime eMOLT Program using an ERDDAP server as an API. This tool is best for people who want to pull data into analyses using Python or R. These data include bottom temperature only and depths are estimated by the fishermen who deployed the sensors.</p>
+</section>
+</div>
+<div class="quarto-layout-row">
+<section id="commercial-fisheries-research-foundation-erddap" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<h3 class="anchored" data-anchor-id="commercial-fisheries-research-foundation-erddap"><a href="">Commercial Fisheries Research Foundation ERDDAP</a></h3>
+<p><img src="screenshots/erddap3.png" class="img-fluid"> Programmatically access environmental data from cooperative research programs run by our partners at the Commercial Fisheries Research Foundation. This tool is best for people who want to pull data into analyses using Python or R. These data include data products like FIShBOT as well as CTD casts collected on CFRF research cruises.</p>
+</section>
 <section id="cape-cod-ocean-watch" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <h3 class="anchored" data-anchor-id="cape-cod-ocean-watch"><a href="https://ccocean.whoi.edu/">Cape Cod Ocean Watch</a></h3>
 <p><img src="screenshots/ccow.png" class="img-fluid"></p>
 <p>Interact with anonymized, quality-controlled data from the eMOLT Program and other industry-based environmental data collection efforts alongside satellite sea surface temps, chlorophyll, and bottom temperature forecasts for the region in this online dashboard jointly developed by Woods Hole Oceanographic Institution, Commercial Fisheries Research Foundation, the Cape Cod Commercial Fishermen’s Alliance, and the eMOLT team.</p>
 </section>
+</div>
+<div class="quarto-layout-row">
 <section id="gulf-of-maine-lobster-foundation-portal" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <h3 class="anchored" data-anchor-id="gulf-of-maine-lobster-foundation-portal"><a href="https://www.portal.emolt.net/">Gulf of Maine Lobster Foundation Portal</a></h3>
 <p><img src="screenshots/portal.png" class="img-fluid"></p>
 <p>Captains and vessel owners participating in the eMOLT Program have access to a password protected, interactive online portal where they can see data from their vessels in much greater detail. This tool was developed by our partners at Ocean Data Network with funding from the Massachusetts Technology Collaborative. Click the link above to log in or request an account.</p>
 </section>
-</div>
-<div class="quarto-layout-row">
-<section id="gulf-of-maine-lobster-foundation-erddap" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<h3 class="anchored" data-anchor-id="gulf-of-maine-lobster-foundation-erddap"><a href="https://erddap.emolt.net/erddap/index.html">Gulf of Maine Lobster Foundation ERDDAP</a></h3>
-<p><img src="screenshots/erddap.png" class="img-fluid"> Programmatically access anonymized data from the realtime eMOLT Program using an ERDDAP server as an API. This tool is best for people who want to pull data into analyses using Python or R. The data can be accessed in a filtered version (quality checks already applied, only good data returned) or unfiltered version (quality checks applied, all data returned).</p>
-</section>
-<section id="northeast-fisheries-science-center-erddap" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<h3 class="anchored" data-anchor-id="northeast-fisheries-science-center-erddap"><a href="https://comet.nefsc.noaa.gov/erddap/index.html">Northeast Fisheries Science Center ERDDAP</a></h3>
-<p><img src="screenshots/erddap2.png" class="img-fluid"> Programmatically access anonymized data from the first few decades of the non-realtime eMOLT Program using an ERDDAP server as an API. This tool is best for people who want to pull data into analyses using Python or R. These data include bottom temperature only and depths are estimated by the fishermen who deployed the sensors.</p>
+<section id="massachusetts-division-of-marine-fisheries-cape-cod-bay-dashboard" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<h3 class="anchored" data-anchor-id="massachusetts-division-of-marine-fisheries-cape-cod-bay-dashboard"><a href="https://experience.arcgis.com/experience/0af88a18b7364b228004bb6d7dc71b5a/page/Map">Massachusetts Division of Marine Fisheries Cape Cod Bay Dashboard</a></h3>
+<p><img src="screenshots/ccb.png" class="img-fluid"></p>
+<p>The Cape Cod Bay Study Fleet is a joint effort between the Massachusetts Division of Marine Fisheries and the Massachusetts Lobstermen’s Association. eMOLT partner vessels provide additional loggers for the effort. Check out the link above to see the latest oxygen measurements in Cape Cod Bay and download data from previous seasons.</p>
 </section>
 </div>
 </div>
@@ -617,6 +629,35 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+ Find us on LinkedIn
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7258203580950630400">
+      <i class="bi bi-linkedin" role="img">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="./wiki/landing.html">
+<p>Documentation</p>
+</a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
 
 
 
