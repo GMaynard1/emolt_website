@@ -1,7 +1,11 @@
 ---
 title: "Sign Up"
 ---
-Want an eMOLT system for your boat or know somebody else who does? Sign up here to get on our wait list and be notified next time hardware is available for your gear type and geographic location.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdRYtqgxrNmraclFQn_EfIVydPOSyMhsmCNKaRgej2F3n6Xzw/viewform?embedded=true" width="100%" height="700%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+Want an eMOLT system for your boat or know somebody else who does? Sign up here to get on our wait list and be notified next time hardware is available for your gear type and geographic location or [click here to see if you're already on the waitlist](waitlist.qmd)
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdRYtqgxrNmraclFQn_EfIVydPOSyMhsmCNKaRgej2F3n6Xzw/viewform?embedded=true" width="100%" height="700%" frameborder="0" marginheight="0" marginwidth="0">
+
+Loading…
+
+</iframe>

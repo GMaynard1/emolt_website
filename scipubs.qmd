@@ -1,0 +1,36 @@
+---
+title: "Scientific Publications"
+---
+
+In addition to being used in operational forecasts, data from the eMOLT Program have been used in fisheries stock assessments, scientific research, and the development of data products. Don't see your publication here? Let us know!
+
+### Peer-Reviewed Publications
+
+- [Aretxabaleta, A. L., B. Butman, R. P. Signell, P. S. Dalyander, C. R. Sherwood, V. A. Sheremet, and D. J. McGillicuddy. 2014. Near-bottom circulation and dispersion of sediment containing Alexandrium fundyense cysts in the Gulf of Maine during 2010–2011. Deep Sea Research Part II: Topical Studies in Oceanography 103:96–111.](https://linkinghub.elsevier.com/retrieve/pii/S0967064513004426)
+- [Gawarkiewicz, G. G., R. E. Todd, A. J. Plueddemann, M. Andres, and J. P. Manning. 2012. Direct interaction between the Gulf Stream and the shelfbreak south of New England. Scientific Reports 2(1):553.](https://www.nature.com/articles/srep00553)
+- [Goulette, G. S., J. P. Hawkes, J. F. Kocik, J. P. Manning, P. A. Music, J. P. Wallinga, and G. B. Zydlewski. 2014. Opportunistic Acoustic Telemetry Platforms: Benefits of Collaboration in the Gulf of Maine. Fisheries 39(10):441–450.](http://doi.wiley.com/10.1080/03632415.2014.943740)
+- [Johnson, T. R., and W. L. T. Van Densen. 2007. Benefits and organization of cooperative research for fisheries management. ICES Journal of Marine Science 64(4):834–840.](https://academic.oup.com/icesjms/article/64/4/834/640672)
+- [Jost, J., S. Podolski, and M. Frederich. 2012. Enhancing thermal tolerance by eliminating the pejus range: a comparative study with three decapod crustaceans. Marine Ecology Progress Series 444:263–274.](http://www.int-res.com/abstracts/meps/v444/p263-274/)
+- [Li, B., K. R. Tanaka, Y. Chen, D. C. Brady, and A. C. Thomas. 2017. Assessing the quality of bottom water temperatures from the Finite-Volume Community Ocean Model (FVCOM) in the Northwest Atlantic Shelf region. Journal of Marine Systems 173:21–30.](https://linkinghub.elsevier.com/retrieve/pii/S092479631630358X)
+- [Liu, X., J. Manning, R. Prescott, F. Page, H. Zou, and M. Faherty. 2019. On simulating cold-stunned sea turtle strandings on Cape Cod, Massachusetts. PLOS ONE 14(12):e0204717.](https://dx.plos.org/10.1371/journal.pone.0204717)
+- [Manning, J., and E. Pelletier. 2009. Environmental monitors on lobster traps (eMOLT): long-term observations of New England’s bottom-water temperatures. Journal of Operational Oceanography 2(1):25–33.](http://www.tandfonline.com/doi/full/10.1080/1755876X.2009.11020106)
+- [Sasaki, D. K., C. Schultz, and E. Curchitser. 2026. A high-resolution coupled physical-biogeochemical model of the northeastern US continental shelf: MOM6-COBALT-NEUS25v1.0. Geoscientific Model Development 19(14):6737–6775.](https://gmd.copernicus.org/articles/19/6737/2026/)
+- [Tanaka, K., and Y. Chen. 2016. Modeling spatiotemporal variability of the bioclimate envelope of Homarus americanus in the coastal waters of Maine and New Hampshire. Fisheries Research 177:137–152.](https://linkinghub.elsevier.com/retrieve/pii/S0165783616300108)
+- [Torre, M. P., K. R. Tanaka, and Y. Chen. 2018. A spatiotemporal Evaluation of Atlantic Sea Scallop Placopecten magellanicus Habitat in the Gulf of Maine Using a Bioclimate Envelope Model. Marine and Coastal Fisheries 10(2):224–235.](https://academic.oup.com/mcf/article/10/2/224/7827019)
+- [Van Vranken, C., J. Jakoboski, J. W. Carroll, C. Cusack, P. Gorringe, N. Hirose, J. Manning, M. Martinelli, P. Penna, M. Pickering, A. M. Piecho-Santos, M. Roughan, J. De Souza, and H. Moustahfid. 2023. Towards a global Fishing Vessel Ocean Observing Network (FVON): state of the art and future directions. Frontiers in Marine Science 10:1176814.](https://www.frontiersin.org/articles/10.3389/fmars.2023.1176814/full)
+- [Van Vranken, C., B. M. J. Vastenhoud, J. P. Manning, K. S. Plet-Hansen, J. Jakoboski, P. Gorringe, and M. Martinelli. 2020. Fishing Gear as a Data Collection Platform: Opportunities to Fill Spatial and Temporal Gaps in Operational Sub-Surface Observation Networks. Frontiers in Marine Science 7:485512.](https://www.frontiersin.org/articles/10.3389/fmars.2020.485512/full)
+- [Wilkin, J., J. Levin, A. Moore, H. Arango, A. López, and E. Hunter. 2022. A data-assimilative model reanalysis of the U.S. Mid Atlantic Bight and Gulf of Maine: Configuration and comparison to observations and global ocean models. Progress in Oceanography 209:102919.](https://linkinghub.elsevier.com/retrieve/pii/S0079661122001781)
+- [Yang, X., R. Linner, C. Hodgdon, J. P. Kritzer, G. Maynard, E. Pelletier, and Y. Chen. 2026. Evaluating the validity of using sea surface temperature as an alternative to bottom temperature in American lobster habitat suitability modeling. Progress in Oceanography 242:103667.](https://linkinghub.elsevier.com/retrieve/pii/S0079661126000017)
+
+### White Papers
+
+- [Feeney, R. G., and K. La Valley. 2008. A Decade Of Discovery: Collaborative Research In The Gulf Of Maine. Page UNHMP-​R-​SG 08-34. University of New Hampshire Sea Grant.](https://repository.library.noaa.gov/view/noaa/39392)
+- [Gallaudet, T., J. McLaughlin, and L. Oremland. 2021. NOAA Citizen Science Strategy : Applying the Power of the Crowd.](https://repository.library.noaa.gov/view/noaa/61399)
+- [Hunt, C., A. Pugh, J. Kritzer, S. A. Siedlecki, K. Azetsu-Scott, C. Bastidas, P. Gassett, D. Gledhill, D. Lavoie, I. Mlsna, A. Pimenta, A. Trice, and E. Turner. 2025, August 16. Ocean and Coastal Acidification Monitoring Priorities for the Northeast US and Eastern Canada. Environmental Monitoring.](https://eartharxiv.org/repository/view/8023/)
+- [Stoltz, L., G. Maynard, M. Morin, and S. Salois. 2025. Production of an in-situ bottom water temperature product for the northeast US continental shelf using oceanographic data collected by fishing vessels. NOAA technical memorandum NMFS-NEFSC ; 341.](https://repository.library.noaa.gov/view/noaa/72384)
+- [Wimberly, F., S. Ryan, A. Ellertson Church, M. Sanderson, G. Maynard, and L. Stoltz. 2026. Cape Cod Ocean Watch. Benefits of Ocean Observing Catalog (BOOC) 4(1).](https://cbe.miis.edu/booc/vol4/iss1/1)
+
+
+### Stock Assessments
+- [Atlantic States Marine Fisheries Commission. 2020. American Lobster Benchmark Stock Assessment and Peer Review Report. Stock Assessment, Atlantic States Marine Fisheries Commission.](https://asmfc.org/wp-content/uploads/2025/01/2020AmLobsterBenchmarkStockAssmt_PeerReviewReport.pdf)
+- [Atlantic States Marine Fisheries Commission. 2025. American Lobster Benchmark Stock Assessment and Peer Review Report. Stock Assessment, Atlantic States Marine Fisheries Commission.](https://asmfc.org/wp-content/uploads/2025/11/AmLobsterBenchmarkAssessment_PeerReviewReport_Oct2025_web.pdf)

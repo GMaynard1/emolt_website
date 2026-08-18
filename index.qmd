@@ -5,6 +5,9 @@ toc: true
 about:
   template: trestles
   image: images/eMOLT_Logo.png
+  links: 
+    - icon: linkedin
+      href: https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7258203580950630400
 ---
 
 <p class="subtitle">
@@ -13,4 +16,67 @@ A Cooperative Ocean Observing Program
 
 </p>
 
-**The environmental Monitors on Lobster Traps and Large Trawlers (eMOLT) Program** is a collaborative effort between government agencies, academic institutions, non-profits, tech companies, and the commercial fishing industry in the Northeastern United States that aims to provide high quality, subsurface ocean measurements around the region in near-real time. Jointly administered by NOAA's Northeast Fisheries Science Center and the Gulf of Maine Lobster Foundation since 2001, the eMOLT Program relies on a distributed network of dockside technicians to help our partners in the fishing industry maintain the sensors aboard their vessels so that the resulting data can be used for fishing decision making, ocean forecasting, and fisheries stock assessments.
+<div>
+
+::::::::::::::::: {#slide-carousel .carousel .slide data-bs-ride="carousel"}
+:::::::::::::::: carousel-inner
+::: {.carousel-item .active}
+![Huanxin, Captain Mike, Owen, and JiM discuss temperature data in the wheelhouse of the F/V Adventure](images/people/carousel/emolt_carousel_people01.png){width="100%"}
+:::
+
+::: carousel-item
+![(L) Samir and Cassie discuss wiring options with Captain Tim aboard the F/V Divergence. (R) George and Captain Jamien talk sensor placement on the F/V Ella V.](images/people/carousel/emolt_carousel_people02.png){width="100%"}
+:::
+
+::: carousel-item
+![George, Sarah, and Captain Phil discuss online data access aboard the F/V Persistence](images/people/carousel/emolt_carousel_people03.png){width="100%"}
+:::
+
+::: carousel-item
+![(L) George, Captain Brady, and Anna with scallops under the sensorized dredge aboard the F/V Salted. (R) Farrell, Samir, Huanxin, Captain Peter, and crewman Rio disucss sensor mounting options aboard the F/V Atlantic.](images/people/carousel/emolt_carousel_people04.png){width="100%"}
+:::
+
+::: carousel-item
+![eMOLT founder JiM Manning's retirement part in Woods Hole attended by scientists and fishermen from around the region](images/people/carousel/emolt_carousel_people05.png){width="100%"}
+:::
+
+::: carousel-item
+![(L) Captain Mark and George discuss data aboard the F/V Prevail. (R) Erin and Captain Matt after a successful installation on the F/V Catherine G.](images/people/carousel/emolt_carousel_people06.png){width="100%"}
+:::
+
+::: carousel-item
+![Huanxin and Emma after installing an eMOLT system on the F/V Sea Watcher II](images/people/carousel/emolt_carousel_people07.png){width="100%"}
+:::
+
+::: carousel-item
+![(L) Anna, George, and crewman Sam range testing a logger aboard the F/V Retriever. (R) George and JiM troubleshooting a deckbox aboard the F/V Mister G.](images/people/carousel/emolt_carousel_people08.png){width="100%"}
+:::
+
+::: carousel-item
+![Captain Jim, JiM, and Aubrey pose behind an eMOLT deckbox aboard the F/V Excalibur.](images/people/carousel/emolt_carousel_people09.png){width="100%"}
+:::
+
+::: carousel-item
+![(L) Sarah and Captain Kevin installing a deckbox aboard the F/V Dana Christine II. (R) Jack, Giovanni, and Captain Scott with a newly installed deckbox aboard the F/V Nicholas C.](images/people/carousel/emolt_carousel_people10.png){width="100%"}
+:::
+
+::: carousel-item
+![Lobster Institute director Chris Cash (kneeling) discusses sensor placement with UMaine interns Ryan and Tessa aboard the F/V Alison Ann](images/people/carousel/emolt_carousel_people11.png){width="100%"}
+:::
+::::::::::::::::
+
+<button class="carousel-control-prev" type="button" data-bs-target="#slide-carousel" data-bs-slide="prev">
+
+[Previous]{.visually-hidden}
+
+</button>
+
+<button class="carousel-control-next" type="button" data-bs-target="#slide-carousel" data-bs-slide="next">
+
+[Next]{.visually-hidden}
+
+</button>
+:::::::::::::::::
+</div>
+
+**The environmental Monitors on Lobster Traps and Large Trawlers (eMOLT) Program** is a collaborative effort between government agencies, academic institutions, non-profits, tech companies, and the commercial fishing industry in the Northeastern United States that aims to provide high quality, subsurface ocean measurements around the region in near-real time. Jointly administered by NOAA's Northeast Fisheries Science Center and the Gulf of Maine Lobster Foundation since 2001, the eMOLT Program relies on a distributed network of dockside technicians to help our partners in the fishing industry maintain the sensors aboard their vessels so that the resulting data can be used for fishing decision making, ocean forecasting, and fisheries stock assessments. For regular updates on the eMOLT Program and oceanography off the Northeastern United States, subscribe to our newsletter on LinkedIn by clicking the link to the left.

@@ -10,6 +10,19 @@ website:
         text: About
       - href: signup.qmd
         text: Sign Up
+      - href: scipubs.qmd
+        text: Scientific Publications
+      - href: media.qmd
+        text: Media
+      - href: partnerships.qmd
+        text: Partnerships
+      - href: data.qmd
+        text: Data Access
+    right: 
+      - href: https://gomlf.org/emolt
+        text: "![](images/gomlf.png){height=100px}"
+      - href: https://www.fisheries.noaa.gov/new-england-mid-atlantic/climate-change/partnering-fishing-industry-monitor-northeast-shelf
+        text: "![](images/crb.png){height=100px}"
         
 
 format:

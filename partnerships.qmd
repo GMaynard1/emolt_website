@@ -1,0 +1,137 @@
+---
+title: "Partnerships"
+---
+
+The eMOLT Program could not exist without the support of collaborators around the region. We also partner on other scientific initiatives to streamline at sea data collection for fishermen and promote environmental data standardization throughout the region. Click the links below to learn more and feel free to reach out with ideas for other partnerships.
+
+## Partner Organizations
+
+:::::::::::::::::::::: {#slide-carousel .carousel .slide data-bs-ride="carousel"}
+::::::::::::::::::::: carousel-inner
+::: {.carousel-item .active}
+![[Atlantic Offshore Lobstermen's Association]()](images/logos/atlanticoffshorelobstermensassociation.bmp){height="300px"}
+:::
+
+::: carousel-item
+![[Cape Cod Commercial Fishermen's Alliance]()](images/logos/capecodcommercialfishermensalliance.png){height="300px"}
+:::
+
+::: carousel-item
+![[Center for Coastal Studies](https://coastalstudies.org/)](images/logos/centerforcoastalstudies.jpg){height="300px"}
+:::
+
+::: carousel-item
+![[Commercial Fisheries Research Foundation](https://www.cfrfoundation.org/)](images/logos/commercialfisheriesresearchfoundation.jpg){height="300px"}
+:::
+
+::: carousel-item
+![[Coonamessett Farm Foundation](https://www.coonamessettfarmfoundation.org/)](images/logos/coonamessettfarmfoundation.gif){height="300px"}
+:::
+
+::: carousel-item
+![[Intershell Seafood](https://intershellseafood.com/?srsltid=AfmBOor3dM7Qpk3SDGeKR-Dmn979iPNL5B8SpliYf8XMWtf6eNMZ1oVL)](images/logos/intershell.png){height="300px"}
+:::
+
+::: carousel-item
+![[The Lobster Institute](https://umaine.edu/lobsterinstitute/)](images/logos/lobsterinstitute.jpg){height="300px"}
+:::
+
+::: carousel-item
+![[Lowell Instruments](https://lowellinstruments.com/)](images/logos/lowellinstruments.png){height="200px"}
+:::
+
+::: carousel-item
+![[Maine Department of Marine Resources](https://www.maine.gov/dmr/home)](images/logos/dmr.jpg){height="300px"}
+:::
+
+::: carousel-item
+![[Maine Lobstermen's Association](https://www.mainelobstermen.org/)](images/logos/mainelobstermen.jpg){height="300px"}
+:::
+
+::: carousel-item
+![[Marine Biological Laboratory](https://www.mbl.edu/)](images/logos/MBL.png){height="300px"}
+:::
+
+::: carousel-item
+![[Massachusetts Division of Marine Fisheries](https://www.mass.gov/orgs/division-of-marine-fisheries)](images/logos/dmf.png){height="300px"}
+:::
+
+::: carousel-item
+![[Massachusetts Lobstermen's Association](https://lobstermen.com/)](images/logos/masslobstermen.png){height="300px"}
+:::
+
+::: carousel-item
+![[Massachusetts Maritime Academy](https://www.maritime.edu/)](images/logos/massachusettsmaritime.png){height="300px"}
+:::
+
+::: carousel-item
+![[Ocean Data Network](https://oceandata.net/)](images/logos/oceandatanetwork.png){height="300px"}
+:::
+
+::: carousel-item
+![[Rutgers University Center for Ocean Observing Leadership](https://rucool.marine.rutgers.edu/)](images/logos/rutgers_rucool.png){height="200px"}
+:::
+
+::: carousel-item
+![[Rutgers University Haskin Shellfish Research Lab](https://hsrl.rutgers.edu/)](images/logos/haskin.jpg){height="250px"}
+:::
+
+::: carousel-item
+![[University of Connecticut Department of Marine Sciences](https://marinesciences.uconn.edu/)](images/logos/uconn.png){height="300px"}
+:::
+
+::: carousel-item
+![[University of Massachusetts Dartmouth School for Marine Science and Technology](https://www.umassd.edu/smast/)](images/logos/umasssmast.jpeg){height="300px"}
+:::
+
+::: carousel-item
+![[Woods Hole Oceanographic Institution](https://www.whoi.edu/)](images/logos/whoi.png){height="300px"}
+:::
+:::::::::::::::::::::
+
+<button class="carousel-control-prev" type="button" data-bs-target="#slide-carousel" data-bs-slide="prev">
+
+[Previous]
+
+</button>
+
+<button class="carousel-control-next" type="button" data-bs-target="#slide-carousel" data-bs-slide="next">
+
+[Next]
+
+</button>
+::::::::::::::::::::::
+
+## Research Initiatives Supported
+
+### Commercial Fisheries Research Foundation
+
+-   [Lobster and Jonah Crab Research Fleet](https://www.cfrfoundation.org/jonah-crab-lobster-research-fleet)
+- [Fishing Industry Shared Bottom Oceanographic Timeseries (FIShBOT)](https://fishbot.net/)
+
+### Coonamessett Farm Foundation
+
+-   [Davis Bank East Benthic Surveys](https://www.coonamessettfarmfoundation.org/clam-survey)
+-   [Electronic Monitoring in the Sea Scallop Fishery](https://www.coonamessettfarmfoundation.org/electronic-monitoring)
+
+### The Lobster Institute
+
+-   [Navigating the New Arctic](https://umaine.edu/lobsterinstitute/nna-home-page/)
+
+### Maine Department of Marine Resources
+
+-   [Fishery Direct Data Program](https://www.maine.gov/dmr/science/species-information/maine-lobster/surveys/fisheries-directed-data-program)
+
+### Massachusetts Division of Marine Fisheries
+
+-   [Cape Cod Bay Study Fleet](https://www.mass.gov/info-details/tracking-dissolved-oxygen-with-the-cape-cod-bay-study-fleet-and-dmf)
+
+### Northeast Fisheries Science Center
+
+-   [Bottom Longline Survey](https://www.fisheries.noaa.gov/new-england-mid-atlantic/science-data/gulf-maine-bottom-longline-survey)
+-   [Study Fleet](https://www.fisheries.noaa.gov/new-england-mid-atlantic/science-data/cooperative-research-northeast#study-fleet)
+-   [Squid Squad](https://www.fisheries.noaa.gov/new-england-mid-atlantic/science-data/cooperative-research-northeast#collaborative-squid-research)
+
+### The University of Connecticut
+
+-   [Assessing vulnerability of the Atlantic Sea Scallop social- ecological system in the northeast waters of the US](https://samanthasiedlecki.wixsite.com/coastalbiogeodynlab/projects)

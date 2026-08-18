@@ -1,10 +1,17 @@
 ---
 title: "About"
 ---
-
-![](images/about_screen.png)
+<center>
+![JiM Manning discusses environmental conditions with Captain Tony in the wheelhouse of the F/V Kathryn Marie in New Bedford.](images/quote_jim.jpg)
+</center>
 
 The eMOLT Program began in 1996 when JiM Manning, an oceanographer at NOAA's Northeast Fisheries Science Center began mailing small temperature loggers to lobstermen to zip-tie into their traps. The program began to scale up around 2001 when JiM joined forces with Erin Pelletier at the Gulf of Maine Lobster Foundation. Eventually, small sensors zip-tied into lobster traps monitored bottom temperature at over 400 sites around the region.
+
+<center>
+
+![eMOLT sensors ready to be mailed out, a sensor on a trap, a map of sensors deployed on lobster pots, a meeting of some of the original eMOLT participants from the Massachusetts Lobstermen's Association](images/historic.jpg)
+
+</center>
 
 Around 2015, JiM and Erin worked with Lowell Instruments in Falmouth, Massachusetts to develop a bluetooth temperature and depth logger to enable faster data delivery from the fishing gear to fishermen on the boats and scientists onshore who could make use of the data. Thanks to the patience and tenacity of the engineers and fishermen participating in the program, after years of software development and hardware trials at sea, the eMOLT Program now deploys several different types of sensors up and down the East Coast.
 
@@ -19,55 +26,55 @@ The eMOLT Program provides loggers and deckboxes to fishermen at no cost. Logger
 ::::::::::::::::: {#slide-carousel .carousel .slide data-bs-ride="carousel"}
 :::::::::::::::: carousel-inner
 ::: {.carousel-item .active}
-![](images/installation/install_carousel01.jpg){width="100%"}
+![(L) Capt. Xander runs wires in his wheelhouse off Islesford. (R) Huanxin and George install a sensor on a trawl door aboard the F/V Virginia Marise in Point Judith.](images/installation/install_carousel01.jpg){width="100%"}
 :::
 
 ::: carousel-item
-![](images/installation/install_carousel02.jpg){width="100%"}
+![A sensor on a Cape Cod Style scallop dredge aboard the F/V Rachel Christine in Provincetown](images/installation/install_carousel02.jpg){width="100%"}
 :::
 
 ::: carousel-item
-![](images/installation/install_carousel03.jpg){width="100%"}
+![Huanxin and George install a sensor on a Cape Cod Style scallop dredge on the F/V Donna Marie in Provincetown](images/installation/install_carousel03.jpg){width="100%"}
 :::
 
 ::: carousel-item
-![](images/installation/install_carousel04.jpg){width="100%"}
+![(L) Owen Nichols installs a sensor on a trawl door aboard the R/V Gemma in Woods Hole. (R) A sensor mounted on a trawl door aboard the F/V Gabrielle Rose in Scituate. ](images/installation/install_carousel04.jpg){width="100%"}
 :::
 
 ::: carousel-item
-![](images/installation/install_carousel05.jpg){width="100%"}
+![(L) A sensor mounted on a trawl door. (R) Crewman Will with the new Deck Data Hub aboard the F/V Retriever in New Bedford.](images/installation/install_carousel05.jpg){width="100%"}
 :::
 
 ::: carousel-item
-![](images/installation/install_carousel06.jpg){width="100%"}
+![A deckbox aboard the F/V Linda Marie in Point Judith.](images/installation/install_carousel06.jpg){width="100%"}
 :::
 
 ::: carousel-item
-![](images/installation/install_carousel07.jpg){width="100%"}
+![Huanxin ready to install an eMOLT system aboard the F/V Sea Watcher I in New Bedford.](images/installation/install_carousel07.jpg){width="100%"}
 :::
 
 ::: carousel-item
-![](images/installation/install_carousel08.jpg){width="100%"}
+![A Deck Data Hub aboard the F/V Princess Scarlett in Fairhaven.](images/installation/install_carousel08.jpg){width="100%"}
 :::
 
 ::: carousel-item
-![](images/installation/install_carousel09.jpg){width="100%"}
+![(L) A sensor mounted to a trawl door on the F/V Linda Marie in Point Judith. (R) Anna Mercer replacing a SIM card in the Deck Data Hub aboard the F/V Lightning Bay in Point Judith.](images/installation/install_carousel09.jpg){width="100%"}
 :::
 
 ::: carousel-item
-![](images/installation/install_carousel10.jpg){width="100%"}
+![Owen Nichols running wires aboard the R/V Gemma in Woods Hole.](images/installation/install_carousel10.jpg){width="100%"}
 :::
 
 ::: carousel-item
-![](images/installation/install_carousel11.jpg){width="100%"}
+![(L) A sensor mount for a New Bedford Style scallop dredge developed by Capt. Peter Barcz aboard the F/V Atlantic in New Bedford. (R) A sensor mount for a hydraulic clam dredge developed by Chris Saucier aboard the F/V Sea Watcher I in New Bedford.](images/installation/install_carousel11.jpg){width="100%"}
 :::
 
 ::: carousel-item
-![](images/installation/install_carousel12.jpg){width="100%"}
+![A sensor mounted in a lobster pot aboard the F/V Raider III in Barnstable.](images/installation/install_carousel12.jpg){width="100%"}
 :::
 
 ::: carousel-item
-![](images/installation/install_carousel13.jpg){width="100%"}
+![Sarah Salois installs a deckbox aboard the F/V Enterprise at Goodison Shipyard.](images/installation/install_carousel13.jpg){width="100%"}
 :::
 ::::::::::::::::
 
