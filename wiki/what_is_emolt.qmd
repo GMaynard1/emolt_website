@@ -1,0 +1,9 @@
+---
+title: "What is eMOLT?"
+---
+
+## eMOLT (Environmental Monitors on Lobster Traps and Large Trawlers)
+
+The eMOLT program is a collaborative effort between NOAA’s Northeast Fisheries Science Center, commercial fishing businesses in the Northeastern United States, and the Gulf of Maine Lobster Foundation – a non-profit organization with a board of directors comprised of commercial lobstermen from Maine, New Hampshire, and Massachusetts. We install sensors on fishing gear to track parameters such as bottom temperature, water column temperature profiles, and dissolved oxygen concentration. Every time the gear is hauled, fishermen see the data on a small computer in their wheelhouse. The data are also wirelessly transmitted back to the Gulf of Maine Lobster Foundation where they are anonymized and made available to scientists and incorporated into marine forecasts, stock assessments, and other applied research projects. Through grants from NOAA’s Northeast Cooperative Research Program, the Massachusetts Technical Collaborative, Sea Grant, and other funders, we are able to provide these systems at no cost to fishermen. 
+
+![Captain Jim, eMOLT founder JiM Manning, and Aubrey Church in the wheelhouse of the F/V Excalibur with an early realtime deckbox.](images/people/Excalibur_IMG_3228.jpg)

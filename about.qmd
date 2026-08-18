@@ -99,19 +99,19 @@ The eMOLT Program provides loggers and deckboxes to fishermen at no cost. Logger
 ::::: {layout-ncol="2"}
 <div>
 
-[Downeast Maine](tech_teams/downeast.qmd){.btn .btn-success role="button"}
+[Downeast Maine](tech_teams/downeast.qmd){.btn .btn-success role="button" style="width: 100%; display: block; margin-bottom: 10px;"}
 
-[Mid-Coast and Southern ME, NH, and North Shore MA](tech_teams/sme.qmd){.btn .btn-primary role="button"}
+[Mid-Coast and Southern ME, NH, and North Shore MA](tech_teams/sme.qmd){.btn .btn-primary role="button" style="width: 100%; display: block; margin-bottom: 10px;"}
 
 </div>
 
 <div>
 
-[South Shore MA, Cape Cod, and the Islands](tech_teams/ssci.qmd){.btn .btn-danger role="button"}
+[South Shore MA, Cape Cod, and the Islands](tech_teams/ssci.qmd){.btn .btn-danger role="button" style="width: 100%; display: block; margin-bottom: 10px;"}
 
-[South Coast MA, RI, and CT](tech_teams/scri.qmd){.btn .btn-warning role="button"}
+[South Coast MA, RI, and CT](tech_teams/scri.qmd){.btn .btn-warning role="button" style="width: 100%; display: block; margin-bottom: 10px;"}
 
-[Mid-Atlantic](tech_teams/ma.qmd){.btn .btn-info role="button"}
+[Mid-Atlantic](tech_teams/ma.qmd){.btn .btn-info role="button" style="width: 100%; display: block; margin-bottom: 10px;"}
 
 </div>
 :::::
