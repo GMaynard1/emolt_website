@@ -6,112 +6,171 @@ The eMOLT Program could not exist without the support of collaborators around th
 
 ## Partner Organizations
 
-:::::::::::::::::::::: {#slide-carousel .carousel .slide data-bs-ride="carousel"}
+:::::::::::::::::::::: {#slide-carousel .carousel .slide data-bs-ride="carousel" data-bs-interval="2000"}
 ::::::::::::::::::::: carousel-inner
-::: {.carousel-item .active}
-![[Atlantic Offshore Lobstermen's Association]()](images/logos/atlanticoffshorelobstermensassociation.bmp){height="300px"}
+
+::: {.carousel-item .active .text-center}
+![](images/logos/atlanticoffshorelobstermensassociation.bmp){height="250px"}
+
+[Atlantic Offshore Lobstermen's Association](https://offshorelobster.org/main/)
 :::
 
-::: carousel-item
-![[Cape Cod Commercial Fishermen's Alliance]()](images/logos/capecodcommercialfishermensalliance.png){height="300px"}
+::: {.carousel-item .text-center}
+![](images/logos/capecodcommercialfishermensalliance.png){height="250px"}
+
+[Cape Cod Commercial Fishermen's Alliance](https://capecodfishermen.org/)
 :::
 
-::: carousel-item
-![[Center for Coastal Studies](https://coastalstudies.org/)](images/logos/centerforcoastalstudies.jpg){height="300px"}
+::: {.carousel-item .text-center}
+![](images/logos/centerforcoastalstudies.jpg){height="250px"}
+
+[Center for Coastal Studies](https://coastalstudies.org/)
 :::
 
-::: carousel-item
-![[Commercial Fisheries Research Foundation](https://www.cfrfoundation.org/)](images/logos/commercialfisheriesresearchfoundation.jpg){height="300px"}
+::: {.carousel-item .text-center}
+![](images/logos/commercialfisheriesresearchfoundation.jpg){height="250px"}
+
+[Commercial Fisheries Research Foundation](https://www.cfrfoundation.org/)
 :::
 
-::: carousel-item
-![[Coonamessett Farm Foundation](https://www.coonamessettfarmfoundation.org/)](images/logos/coonamessettfarmfoundation.gif){height="300px"}
+::: {.carousel-item .text-center}
+![](images/logos/coonamessettfarmfoundation.gif){height="250px"}
+
+[Coonamessett Farm Foundation](https://www.coonamessettfarmfoundation.org/)
 :::
 
-::: carousel-item
-![[Intershell Seafood](https://intershellseafood.com/?srsltid=AfmBOor3dM7Qpk3SDGeKR-Dmn979iPNL5B8SpliYf8XMWtf6eNMZ1oVL)](images/logos/intershell.png){height="300px"}
+::: {.carousel-item .text-center}
+![](images/logos/intershell.png){height="250px"}
+
+[Intershell Seafood](https://intershellseafood.com/?srsltid=AfmBOor3dM7Qpk3SDGeKR-Dmn979iPNL5B8SpliYf8XMWtf6eNMZ1oVL)
 :::
 
-::: carousel-item
-![[The Lobster Institute](https://umaine.edu/lobsterinstitute/)](images/logos/lobsterinstitute.jpg){height="300px"}
+::: {.carousel-item .text-center}
+![](images/logos/lobsterinstitute.jpg){height="250px"}
+
+[The Lobster Institute](https://umaine.edu/lobsterinstitute/)
 :::
 
-::: carousel-item
-![[Lowell Instruments](https://lowellinstruments.com/)](images/logos/lowellinstruments.png){height="200px"}
+::: {.carousel-item .text-center}
+![](images/logos/lowellinstruments.png){height="200px"}
+
+[Lowell Instruments](https://lowellinstruments.com/)
 :::
 
-::: carousel-item
-![[Maine Department of Marine Resources](https://www.maine.gov/dmr/home)](images/logos/dmr.jpg){height="300px"}
+::: {.carousel-item .text-center}
+![](images/logos/lunds.jpg){height="250px"}
+
+[Lund's Fisheries](https://lundsfish.com/)
 :::
 
-::: carousel-item
-![[Maine Lobstermen's Association](https://www.mainelobstermen.org/)](images/logos/mainelobstermen.jpg){height="300px"}
+::: {.carousel-item .text-center}
+![](images/logos/dmr.jpg){height="250px"}
+
+[Maine Department of Marine Resources](https://www.maine.gov/dmr/home)
 :::
 
-::: carousel-item
-![[Maine Sea Grant](https://seagrant.umaine.edu/)](images/logos/mesg.jpg){height="300px"}
+::: {.carousel-item .text-center}
+![](images/logos/mainelobstermen.jpg){height="250px"}
+
+[Maine Lobstermen's Association](https://www.mainelobstermen.org/)
 :::
 
-::: carousel-item
-![[Marine Biological Laboratory](https://www.mbl.edu/)](images/logos/MBL.png){height="300px"}
+::: {.carousel-item .text-center}
+![](images/logos/mesg.jpg){height="250px"}
+
+[Maine Sea Grant](https://seagrant.umaine.edu/)
 :::
 
-::: carousel-item
-![[Massachusetts Division of Marine Fisheries](https://www.mass.gov/orgs/division-of-marine-fisheries)](images/logos/dmf.png){height="300px"}
+::: {.carousel-item .text-center}
+![](images/logos/MBL.png){height="250px"}
+
+[Marine Biological Laboratory](https://www.mbl.edu/)
 :::
 
-::: carousel-item
-![[Massachusetts Lobstermen's Association](https://lobstermen.com/)](images/logos/masslobstermen.png){height="300px"}
+::: {.carousel-item .text-center}
+![](images/logos/dmf.png){height="250px"}
+
+[Massachusetts Division of Marine Fisheries](https://www.mass.gov/orgs/division-of-marine-fisheries)
 :::
 
-::: carousel-item
-![[Massachusetts Maritime Academy](https://www.maritime.edu/)](images/logos/massachusettsmaritime.png){height="300px"}
+::: {.carousel-item .text-center}
+![](images/logos/masslobstermen.png){height="250px"}
+
+[Massachusetts Lobstermen's Association](https://lobstermen.com/)
 :::
 
-::: carousel-item
-![[Northeastern Regional Association of Coastal Ocean Observing Systems](https://neracoos.org/)](images/logos/neracoos.jpg){height="300px"}
+::: {.carousel-item .text-center}
+![](images/logos/massachusettsmaritime.png){height="250px"}
+
+[Massachusetts Maritime Academy](https://www.maritime.edu/)
 :::
 
-::: carousel-item
-![[Ocean Data Network](https://oceandata.net/)](images/logos/oceandatanetwork.png){height="300px"}
+::: {.carousel-item .text-center}
+![](images/logos/neracoos.jpg){height="250px"}
+
+[Northeastern Regional Association of Coastal Ocean Observing Systems](https://neracoos.org/)
 :::
 
-::: carousel-item
-![[Rutgers University Center for Ocean Observing Leadership](https://rucool.marine.rutgers.edu/)](images/logos/rutgers_rucool.png){height="200px"}
+::: {.carousel-item .text-center}
+![](images/logos/oceandatanetwork.png){height="250px"}
+
+[Ocean Data Network](https://oceandatanetwork.com)
 :::
 
-::: carousel-item
-![[Rutgers University Haskin Shellfish Research Lab](https://hsrl.rutgers.edu/)](images/logos/haskin.jpg){height="250px"}
+::: {.carousel-item .text-center}
+![](images/logos/rutgers_rucool.png){height="200px"}
+
+[Rutgers University Center for Ocean Observing Leadership](https://rucool.marine.rutgers.edu/)
 :::
 
-::: carousel-item
-![[University of Connecticut Department of Marine Sciences](https://marinesciences.uconn.edu/)](images/logos/uconn.png){height="300px"}
+::: {.carousel-item .text-center}
+![](images/logos/haskin.jpg){height="250px"}
+
+[Rutgers University Haskin Shellfish Research Lab](https://hsrl.rutgers.edu/)
 :::
 
-::: carousel-item
-![[University of Massachusetts Dartmouth School for Marine Science and Technology](https://www.umassd.edu/smast/)](images/logos/umasssmast.jpeg){height="300px"}
+::: {.carousel-item .text-center}
+![](images/logos/tnc.jpg){height="250px"}
+
+[The Nature Conservancy in Massachusetts Oceans and Coasts Program](https://www.nature.org/en-us/about-us/where-we-work/united-states/massachusetts/ocean-and-coasts/)
 :::
 
-::: carousel-item
-![[Woods Hole Oceanographic Institution](https://www.whoi.edu/)](images/logos/whoi.png){height="300px"}
+::: {.carousel-item .text-center}
+![](images/logos/uconn.png){height="250px"}
+
+[University of Connecticut Department of Marine Sciences](https://marinesciences.uconn.edu/)
 :::
 
-::: carousel-item
-![[Woods Hole Sea Grant](https://seagrant.whoi.edu/)](images/logos/whsg.png){height="300px"}
+::: {.carousel-item .text-center}
+![](images/logos/umasssmast.jpeg){height="250px"}
+
+[University of Massachusetts Dartmouth School for Marine Science and Technology](https://www.umassd.edu/smast/)
 :::
+
+::: {.carousel-item .text-center}
+![](images/logos/whoi.png){height="250px"}
+
+[Woods Hole Oceanographic Institution](https://www.whoi.edu/)
+:::
+
+::: {.carousel-item .text-center}
+![](images/logos/whsg.png){height="250px"}
+
+[Woods Hole Sea Grant](https://seagrant.whoi.edu/)
+:::
+
 :::::::::::::::::::::
 
-<button class="carousel-control-prev" type="button" data-bs-target="#slide-carousel" data-bs-slide="prev">
-
-[Previous]
-
+<button class="carousel-control-prev" type="button" data-bs-target="#slide-carousel" data-bs-slide="prev" style="filter: invert(100%);">
+  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+  <span class="visually-hidden">Previous</span>
 </button>
 
-<button class="carousel-control-next" type="button" data-bs-target="#slide-carousel" data-bs-slide="next">
-
-[Next]
-
+<button class="carousel-control-next" type="button" data-bs-target="#slide-carousel" data-bs-slide="next" style="filter: invert(100%);">
+  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+  <span class="visually-hidden">Next</span>
 </button>
+
 ::::::::::::::::::::::
 
 ## Research Initiatives Supported
