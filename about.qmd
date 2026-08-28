@@ -1,28 +1,8 @@
 ---
 title: "About"
 ---
-<center>
-![JiM Manning discusses environmental conditions with Captain Tony in the wheelhouse of the F/V Kathryn Marie in New Bedford.](images/quote_jim.jpg)
-</center>
 
-The eMOLT Program began in 1996 when JiM Manning, an oceanographer at NOAA's Northeast Fisheries Science Center began mailing small temperature loggers to lobstermen to zip-tie into their traps. The program began to scale up around 2001 when JiM joined forces with Erin Pelletier at the Gulf of Maine Lobster Foundation. Eventually, small sensors zip-tied into lobster traps monitored bottom temperature at over 400 sites around the region.
-
-<center>
-
-![eMOLT sensors ready to be mailed out, a sensor on a trap, a map of sensors deployed on lobster pots, a meeting of some of the original eMOLT participants from the Massachusetts Lobstermen's Association](images/historic.jpg)
-
-</center>
-
-Around 2015, JiM and Erin worked with Lowell Instruments in Falmouth, Massachusetts to develop a bluetooth temperature and depth logger to enable faster data delivery from the fishing gear to fishermen on the boats and scientists onshore who could make use of the data. Thanks to the patience and tenacity of the engineers and fishermen participating in the program, after years of software development and hardware trials at sea, the eMOLT Program now deploys several different types of sensors up and down the East Coast.
-
-Now jointly administered by NOAA's Northeast Fisheries Science Center and the Gulf of Maine Lobster Foundation in partnership with the fishing industry, tech companies, non-profits, and academic institutions, the eMOLT Program supports nearly 200 commercial fishing vessels collecting and delivering bottom temperature, temperature profiles, and dissolved oxygen data to decision makers in near-realtime.
-
-## How does it work?
-
-![](images/1500x1000-eMOLT-infographic-NEFSC.png)
-
-The eMOLT Program provides loggers and deckboxes to fishermen at no cost. Loggers are affixed to fishing gear, and deckboxes are installed in the wheelhouse. Each time the gear is hauled back, the logger offloads to the deckbox via bluetooth so the fishermen can see the data right away. When the deckbox connects to the internet, it automatically transfers the data to the Gulf of Maine Lobster Foundation's servers where it is QA/QC'd and anonymized before being made publicly available. This hands-free system allows for fishermen to collect critically needed environmental data to advance our collective understanding of how changing ocean conditions are affecting fisheries resources and fishing practices.
-
+## Meet your Local Tech Support Team
 ::::::::::::::::: {#slide-carousel .carousel .slide data-bs-ride="carousel"}
 :::::::::::::::: carousel-inner
 ::: {.carousel-item .active}
@@ -38,7 +18,7 @@ The eMOLT Program provides loggers and deckboxes to fishermen at no cost. Logger
 :::
 
 ::: carousel-item
-![(L) Owen Nichols installs a sensor on a trawl door aboard the R/V Gemma in Woods Hole. (R) A sensor mounted on a trawl door aboard the F/V Gabrielle Rose in Scituate. ](images/installation/install_carousel04.jpg){width="100%"}
+![(L) Owen Nichols installs a sensor on a trawl door aboard the R/V Gemma in Woods Hole. (R) A sensor mounted on a trawl door aboard the F/V Gabrielle Rose in Scituate.](images/installation/install_carousel04.jpg){width="100%"}
 :::
 
 ::: carousel-item
@@ -94,7 +74,6 @@ The eMOLT Program provides loggers and deckboxes to fishermen at no cost. Logger
 ::: {style="clear: both; min-height: 20px;"}
 :::
 
-## Meet your Local Tech Support Team
 
 ::::: {layout-ncol="2"}
 <div>
@@ -115,3 +94,30 @@ The eMOLT Program provides loggers and deckboxes to fishermen at no cost. Logger
 
 </div>
 :::::
+
+## Program History
+
+<center>
+
+![JiM Manning discusses environmental conditions with Captain Tony in the wheelhouse of the F/V Kathryn Marie in New Bedford.](images/quote_jim.jpg)
+
+</center>
+
+The eMOLT Program began in 1996 when JiM Manning, an oceanographer at NOAA's Northeast Fisheries Science Center began mailing small temperature loggers to lobstermen to zip-tie into their traps. The program began to scale up around 2001 when JiM joined forces with Erin Pelletier at the Gulf of Maine Lobster Foundation. Eventually, small sensors zip-tied into lobster traps monitored bottom temperature at over 400 sites around the region.
+
+<center>
+
+![eMOLT sensors ready to be mailed out, a sensor on a trap, a map of sensors deployed on lobster pots, a meeting of some of the original eMOLT participants from the Massachusetts Lobstermen's Association](images/historic.jpg)
+
+</center>
+
+Around 2015, JiM and Erin worked with Lowell Instruments in Falmouth, Massachusetts to develop a bluetooth temperature and depth logger to enable faster data delivery from the fishing gear to fishermen on the boats and scientists onshore who could make use of the data. Thanks to the patience and tenacity of the engineers and fishermen participating in the program, after years of software development and hardware trials at sea, the eMOLT Program now deploys several different types of sensors up and down the East Coast.
+
+Now jointly administered by NOAA's Northeast Fisheries Science Center and the Gulf of Maine Lobster Foundation in partnership with the fishing industry, tech companies, non-profits, and academic institutions, the eMOLT Program supports nearly 200 commercial fishing vessels collecting and delivering bottom temperature, temperature profiles, and dissolved oxygen data to decision makers in near-realtime.
+
+## How does it work?
+
+![](images/1500x1000-eMOLT-infographic-NEFSC.png)
+
+The eMOLT Program provides loggers and deckboxes to fishermen at no cost. Loggers are affixed to fishing gear, and deckboxes are installed in the wheelhouse. Each time the gear is hauled back, the logger offloads to the deckbox via bluetooth so the fishermen can see the data right away. When the deckbox connects to the internet, it automatically transfers the data to the Gulf of Maine Lobster Foundation's servers where it is QA/QC'd and anonymized before being made publicly available. This hands-free system allows for fishermen to collect critically needed environmental data to advance our collective understanding of how changing ocean conditions are affecting fisheries resources and fishing practices.
+
