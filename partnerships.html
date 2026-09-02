@@ -229,6 +229,10 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="https://seagrant.umaine.edu/">Maine Sea Grant</a></p>
 </div>
 <div class="carousel-item text-center">
+<p><img src="images/logos/mvfpt.avif" height="250"></p>
+<p><a href="https://www.mvfishermenspreservationtrust.org/">Martha’s Vineyard Fishermen’s Preservation Trust</a></p>
+</div>
+<div class="carousel-item text-center">
 <p><img src="images/logos/MBL.png" height="250"></p>
 <p><a href="https://www.mbl.edu/">Marine Biological Laboratory</a></p>
 </div>
@@ -288,6 +292,26 @@ ul.task-list li input[type="checkbox"] {
 <span class="carousel-control-next-icon" aria-hidden="true"></span> <span class="visually-hidden">Next</span>
 </button>
 </div>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const container = document.querySelector("#slide-carousel .carousel-inner");
+  if (!container) return;
+
+  // Convert elements to an array and shuffle them (Fisher-Yates)
+  const items = Array.from(container.querySelectorAll(".carousel-item"));
+  for (let i = items.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [items[i], items[j]] = [items[j], items[i]];
+  }
+
+  // Clear current active state, assign active to new 1st slide, and re-append
+  items.forEach((item, index) => {
+    item.classList.remove("active");
+    if (index === 0) item.classList.add("active");
+    container.appendChild(item);
+  });
+});
+</script>
 </section>
 <section id="research-initiatives-supported" class="level2">
 <h2 class="anchored" data-anchor-id="research-initiatives-supported">Research Initiatives Supported</h2>

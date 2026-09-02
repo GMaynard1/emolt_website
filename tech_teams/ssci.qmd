@@ -2,7 +2,7 @@
 title: "South Shore MA, Cape Cod, and the Islands"
 ---
 
-::::: {layout-ncol="3"}
+:::::: {layout-ncol="3"}
 <div>
 
 ### Huanxin Xu
@@ -35,8 +35,9 @@ Owen is the Director of Marine Fisheries Research at the Center for Coastal Stud
 
 George is the eMOLT Coordinator at the Northeast Fisheries Science Center. He assists with dockside support throughout Southern New England and provides remote support for eMOLT systems and dockside tech teams between Maine and North Carolina. George also works with partners to secure funding for the program and ensure data delivery to end users.
 
--   [Email](mailto:george.maynard@noaa.gov)
--   [LinkedIn](https://www.linkedin.com/in/georgeamaynard/)
+-   [<i class="bi bi-telephone"></i>]{style="color: red;"}
+-   {{< bi envelope>}}[Email](mailto:george.maynard@noaa.gov)
+-   {{< bi LinkedIn>}}[LinkedIn](https://www.linkedin.com/in/georgeamaynard/)
 
 </div>
-:::::
+::::::
