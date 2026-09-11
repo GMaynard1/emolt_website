@@ -40,6 +40,12 @@ The eMOLT Program could not exist without the support of collaborators around th
 :::
 
 ::: {.carousel-item .text-center}
+![](images/logos/hurricane.png){height="220px"}
+
+[Hurricane Island Center for Science & Leadership](https://www.hurricaneisland.net/)
+:::
+
+::: {.carousel-item .text-center}
 ![](images/logos/intershell.png){height="250px"}
 
 [Intershell Seafood](https://intershellseafood.com/?srsltid=AfmBOor3dM7Qpk3SDGeKR-Dmn979iPNL5B8SpliYf8XMWtf6eNMZ1oVL)
