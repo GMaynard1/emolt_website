@@ -63,5 +63,5 @@ The Cape Cod Bay Study Fleet is a joint effort between the Massachusetts Divisio
 :::::::::
 
 ### Other Data Sources
-<a href="BTS_2026_fall.gpx" download="files/BTS_2026_fall.gpx">Click here to download the 2026 Fall Bottom Trawl Survey Stations as a TimeZero compatible .gpx file</a>
+<a href="files/BTS_2026_fall.gpx" download="BTS_2026_fall.gpx">Click here to download the 2026 Fall Bottom Trawl Survey Stations as a TimeZero compatible .gpx file</a>
 
