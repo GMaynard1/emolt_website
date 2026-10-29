@@ -2,9 +2,13 @@
 title: "Data Access"
 ---
 
-In an effort to protect the privacy of the fishermen who participate in the eMOLT Program, we do not make all of the data collected through the program public. Realtime eMOLT data are served through the Gulf of Maine Lobster Foundation's ERDDAP server which is the access point for some of the interactive data visualizations as well. Other ERDDAP servers that mirror or link to eMOLT data are also listed.
+In an effort to protect the privacy of the fishermen who participate in the eMOLT Program, we do not make all of the data collected through the program public. Realtime eMOLT data are served through the Gulf of Maine Lobster Foundation's ERDDAP server which is the access point for some of the interactive data visualizations as well. Other ERDDAP servers that mirror or link to eMOLT data and data products developed using data from the eMOLT Program are also listed.
 
 ![Bottom temperature measurements collected by eMOLT Program participants in the last month](https://erddap.emolt.net/erddap/tabledap/eMOLT_RT.largePng?longitude,latitude,temperature,depth&time%3Enow-30days&segment_type=3&orderByDescending(%22depth%22)&.draw=markers&.marker=11%7C7&.color=0x000000&.colorBar=KT_thermal%7C%7C%7C%7C%7C&.bgColor=0xffccccff)
+
+### [Fishing Industry Shared Oceanographic Bottom Timeseries (FIShBOT)](https://erddap.ondeckdata.com/erddap/tabledap/fishbot_realtime.html)
+
+![](screenshots/fishbot.png) Programmatically access *in-situ* daily bottom temperature averages around the region on a 7km grid using an ERDDAP server as an API. To learn more about the FIShBOT product [click here](https://www.fishbot.net) and for access to DOI stamped, FIShBOT archives, [click here](https://erddap.ondeckdata.com/erddap/tabledap/fishbot_archive.html).
 
 ::::::::: {layout-ncol="2"}
 <div>
@@ -63,5 +67,5 @@ The Cape Cod Bay Study Fleet is a joint effort between the Massachusetts Divisio
 :::::::::
 
 ### Other Data Sources
-<a href="files/BTS_2026_fall.gpx" download="BTS_2026_fall.gpx">Click here to download the 2026 Fall Bottom Trawl Survey Stations as a TimeZero compatible .gpx file</a>
 
+<a href="files/BTS_2026_fall.gpx" download="BTS_2026_fall.gpx">Click here to download the 2026 Fall Bottom Trawl Survey Stations as a TimeZero compatible .gpx file</a>
