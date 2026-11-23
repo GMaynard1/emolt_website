@@ -134,15 +134,8 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#fishing-industry-shared-oceanographic-bottom-timeseries-fishbot" id="toc-fishing-industry-shared-oceanographic-bottom-timeseries-fishbot" class="nav-link active" data-scroll-target="#fishing-industry-shared-oceanographic-bottom-timeseries-fishbot">Fishing Industry Shared Oceanographic Bottom Timeseries (FIShBOT)</a></li>
-  <li><a href="#other-data-sources" id="toc-other-data-sources" class="nav-link" data-scroll-target="#other-data-sources">Other Data Sources</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -173,54 +166,61 @@ ul.task-list li input[type="checkbox"] {
 <figcaption>Bottom temperature measurements collected by eMOLT Program participants in the last month</figcaption>
 </figure>
 </div>
-<section id="fishing-industry-shared-oceanographic-bottom-timeseries-fishbot" class="level3">
-<h3 class="anchored" data-anchor-id="fishing-industry-shared-oceanographic-bottom-timeseries-fishbot"><a href="https://erddap.ondeckdata.com/erddap/tabledap/fishbot_realtime.html">Fishing Industry Shared Oceanographic Bottom Timeseries (FIShBOT)</a></h3>
-<p><img src="screenshots/fishbot.png" class="img-fluid"> Programmatically access <em>in-situ</em> daily bottom temperature averages around the region on a 7km grid using an ERDDAP server as an API. To learn more about the FIShBOT product <a href="https://www.fishbot.net">click here</a> and for access to DOI stamped, FIShBOT archives, <a href="https://erddap.ondeckdata.com/erddap/tabledap/fishbot_archive.html">click here</a>.</p>
 <div>
 
 </div>
-</section>
-<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="dataset-columns quarto-layout-panel" data-layout-ncol="2">
 <div class="quarto-layout-row">
-<section id="gulf-of-maine-lobster-foundation-erddap" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<section id="erddap-datasets" class="level2 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<h2 class="anchored" data-anchor-id="erddap-datasets">ERDDAP Datasets</h2>
+<section id="fishing-industry-shared-oceanographic-bottom-timeseries-fishbot-erddap" class="level3">
+<h3 class="anchored" data-anchor-id="fishing-industry-shared-oceanographic-bottom-timeseries-fishbot-erddap"><a href="https://erddap.ondeckdata.com/erddap/tabledap/fishbot_realtime.html">Fishing Industry Shared Oceanographic Bottom Timeseries (FIShBOT) ERDDAP</a></h3>
+<p><img src="screenshots/erddap_fishbot.png" class="img-fluid"></p>
+<p>Programmatically access <em>in-situ</em> daily bottom temperature averages around the region on a 7km grid using an ERDDAP server as an API. For access to DOI-stamped FIShBOT archives, <a href="https://erddap.ondeckdata.com/erddap/tabledap/fishbot_archive.html">click here</a>.</p>
+</section>
+<section id="gulf-of-maine-lobster-foundation-erddap" class="level3">
 <h3 class="anchored" data-anchor-id="gulf-of-maine-lobster-foundation-erddap"><a href="https://erddap.emolt.net/erddap/index.html">Gulf of Maine Lobster Foundation ERDDAP</a></h3>
-<p><img src="screenshots/erddap.png" class="img-fluid"> Programmatically access anonymized data from the realtime eMOLT Program using an ERDDAP server as an API. This tool is best for people who want to pull data into analyses using Python or R. The data can be accessed in a filtered version (quality checks already applied, only good data returned) or unfiltered version (quality checks applied, all data returned). Data from this source are used to power the interactive dashboards below.</p>
+<p><img src="screenshots/erddap.png" class="img-fluid"></p>
+<p>Programmatically access anonymized data from the realtime eMOLT Program using an ERDDAP server as an API. This tool is best for people who want to pull data into analyses using Python or R. The data can be accessed in a filtered version (quality checks already applied, only good data returned) or unfiltered version (quality checks applied, all data returned). Data from this source are used to power the interactive dashboards to the right.</p>
 </section>
-<section id="northeast-fisheries-science-center-erddap" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<section id="northeast-fisheries-science-center-erddap" class="level3">
 <h3 class="anchored" data-anchor-id="northeast-fisheries-science-center-erddap"><a href="https://comet.nefsc.noaa.gov/erddap/index.html">Northeast Fisheries Science Center ERDDAP</a></h3>
-<p><img src="screenshots/erddap2.png" class="img-fluid"> Programmatically access anonymized data from the first few decades of the non-realtime eMOLT Program using an ERDDAP server as an API. This tool is best for people who want to pull data into analyses using Python or R. These data include bottom temperature only and depths are estimated by the fishermen who deployed the sensors.</p>
+<p><img src="screenshots/erddap2.png" class="img-fluid"></p>
+<p>Programmatically access anonymized data from the first few decades of the non-realtime eMOLT Program using an ERDDAP server as an API. This tool is best for people who want to pull data into analyses using Python or R. These data include bottom temperature only and depths are estimated by the fishermen who deployed the sensors.</p>
 </section>
-</div>
-<div class="quarto-layout-row">
-<section id="commercial-fisheries-research-foundation-erddap" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<section id="commercial-fisheries-research-foundation-erddap" class="level3">
 <h3 class="anchored" data-anchor-id="commercial-fisheries-research-foundation-erddap"><a href="">Commercial Fisheries Research Foundation ERDDAP</a></h3>
-<p><img src="screenshots/erddap3.png" class="img-fluid"> Programmatically access environmental data from cooperative research programs run by our partners at the Commercial Fisheries Research Foundation. This tool is best for people who want to pull data into analyses using Python or R. These data include data products like FIShBOT as well as CTD casts collected on CFRF research cruises.</p>
+<p><img src="screenshots/erddap3.png" class="img-fluid"></p>
+<p>Programmatically access environmental data from cooperative research programs run by our partners at the Commercial Fisheries Research Foundation. This tool is best for people who want to pull data into analyses using Python or R. These data include data products like FIShBOT as well as CTD casts collected on CFRF research cruises.</p>
 </section>
-<section id="cape-cod-ocean-watch" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+</section>
+<section id="interactive-datasets" class="level2 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<h2 class="anchored" data-anchor-id="interactive-datasets">Interactive Datasets</h2>
+<section id="fishing-industry-shared-oceanographic-bottom-timeseries-fishbot" class="level3">
+<h3 class="anchored" data-anchor-id="fishing-industry-shared-oceanographic-bottom-timeseries-fishbot"><a href="https://www.fishbot.net">Fishing Industry Shared Oceanographic Bottom Timeseries (FIShBOT)</a></h3>
+<p><img src="screenshots/fishbot.png" class="img-fluid"></p>
+<p>Explore <em>in-situ</em> daily bottom temperature averages around the region on a 7km grid through the interactive FIShBOT web application. Visit the FIShBOT platform to visualize regional bottom temperature products and learn more about the data product.</p>
+</section>
+<section id="cape-cod-ocean-watch" class="level3">
 <h3 class="anchored" data-anchor-id="cape-cod-ocean-watch"><a href="https://ccocean.whoi.edu/">Cape Cod Ocean Watch</a></h3>
 <p><img src="screenshots/ccow.png" class="img-fluid"></p>
 <p>Interact with anonymized, quality-controlled data from the eMOLT Program and other industry-based environmental data collection efforts alongside satellite sea surface temps, chlorophyll, and bottom temperature forecasts for the region in this online dashboard jointly developed by Woods Hole Oceanographic Institution, Commercial Fisheries Research Foundation, the Cape Cod Commercial Fishermen’s Alliance, and the eMOLT team.</p>
 </section>
-</div>
-<div class="quarto-layout-row">
-<section id="gulf-of-maine-lobster-foundation-portal" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<section id="gulf-of-maine-lobster-foundation-portal" class="level3">
 <h3 class="anchored" data-anchor-id="gulf-of-maine-lobster-foundation-portal"><a href="https://www.portal.emolt.net/">Gulf of Maine Lobster Foundation Portal</a></h3>
 <p><img src="screenshots/portal.png" class="img-fluid"></p>
 <p>Captains and vessel owners participating in the eMOLT Program have access to a password protected, interactive online portal where they can see data from their vessels in much greater detail. This tool was developed by our partners at Ocean Data Network with funding from the Massachusetts Technology Collaborative. Click the link above to log in or request an account.</p>
 </section>
-<section id="massachusetts-division-of-marine-fisheries-cape-cod-bay-dashboard" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<section id="massachusetts-division-of-marine-fisheries-cape-cod-bay-dashboard" class="level3">
 <h3 class="anchored" data-anchor-id="massachusetts-division-of-marine-fisheries-cape-cod-bay-dashboard"><a href="https://experience.arcgis.com/experience/0af88a18b7364b228004bb6d7dc71b5a/page/Map">Massachusetts Division of Marine Fisheries Cape Cod Bay Dashboard</a></h3>
 <p><img src="screenshots/ccb.png" class="img-fluid"></p>
 <p>The Cape Cod Bay Study Fleet is a joint effort between the Massachusetts Division of Marine Fisheries and the Massachusetts Lobstermen’s Association. eMOLT partner vessels provide additional loggers for the effort. Check out the link above to see the latest oxygen measurements in Cape Cod Bay and download data from previous seasons.</p>
 </section>
-</div>
-</div>
-<section id="other-data-sources" class="level3">
-<h3 class="anchored" data-anchor-id="other-data-sources">Other Data Sources</h3>
-<p><a href="files/BTS_2026_fall.gpx" download="BTS_2026_fall.gpx">Click here to download the 2026 Fall Bottom Trawl Survey Stations as a TimeZero compatible .gpx file</a></p>
-
-
 </section>
+</div>
+</div>
+
+
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

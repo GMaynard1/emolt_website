@@ -9,10 +9,9 @@ title: "Downeast Maine Tech Support"
 
 ![](emma-weed.jpg)
 
-Emma Weed is the Program Director at the Gulf of Maine Lobster Foundation. She grew up in Stonington, Maine in a multi-generational fishing family and recently earned a Master of Science in Program Management at Northeastern University's Roux Institute.
+Emma Weed is the Program Director at the Gulf of Maine Lobster Foundation. She grew up in Stonington, Maine in a multi-generational fishing family and recently earned a Master of Science in Program Management at Northeastern University's Roux Institute. Emma provides technical support for eMOLT partners throughout Maine.
 
--   [Email](mailto:emma@gomlf.org)
--   [LinkedIn](https://www.linkedin.com/in/ACoAACYNdfoB4HmaELnV-HzoNrCKTaWGtFko94c?skipRedirect=true&miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACYNdfoB4HmaELnV-HzoNrCKTaWGtFko94c)
+**Contact Emma:** [{{< bi envelope >}}](mailto:emma@gomlf.org)   [{{< bi linkedin >}}](https://www.linkedin.com/in/emma-weed-b0a979159/)
 
 </div>
 
@@ -22,9 +21,9 @@ Emma Weed is the Program Director at the Gulf of Maine Lobster Foundation. She g
 
 ![](andrew-goode.jpeg)
 
-Dr. Andrew Goode is a postdoctoral scholar at the University of Maine who previously worked as a commercial lobsterman. His research works to better understand the factors controlling lobster populations, and find ways to use this information to better anticipate and plan against climate change impacts to the resource and fishery.
+Dr. Andrew Goode is a postdoctoral scholar at the University of Maine who previously worked as a commercial lobsterman. His research works to better understand the factors controlling lobster populations, and find ways to use this information to better anticipate and plan against climate change impacts to the resource and fishery. Andrew provides support for eMOLT partners Downeast and along the Mid-Coast
 
--   [Email](mailto:andrew.goode@maine.edu)
+**Contact Andrew:** [{{< bi envelope >}}](mailto:andrew.goode@maine.edu)
 
 </div>
 :::::

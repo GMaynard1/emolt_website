@@ -11,7 +11,7 @@ title: "South Shore MA, Cape Cod, and the Islands"
 
 Huanxin is the Technical Director for the Gulf of Maine Lobster Foundation and has played an active role in developing the software and hardware that support the eMOLT Program over the last decade. Huanxin provides dockside support to vessels from New Hampshire to Rhode Island, and remotely provides software updates and troubleshooting support to vessels around the region.
 
--   [Email](mailto:huanxin@gomlf.org)
+**Contact Huanxin** [{{< bi envelope >}}](mailto:huanxin@gomlf.org)
 
 </div>
 
@@ -23,7 +23,7 @@ Huanxin is the Technical Director for the Gulf of Maine Lobster Foundation and h
 
 Owen is the Director of Marine Fisheries Research at the Center for Coastal Studies. A proponent of cooperative research, he has worked on the water with fishermen and aquaculturists for over two decades on a variety of projects. Owen provides support for eMOLT systems on Cape Cod.
 
--   [Email](mailto:nichols@coastalstudies.org)
+**Contact Owen:** [{{< bi envelope >}}](mailto:nichols@coastalstudies.org)
 
 </div>
 
@@ -35,9 +35,7 @@ Owen is the Director of Marine Fisheries Research at the Center for Coastal Stud
 
 George is the eMOLT Coordinator at the Northeast Fisheries Science Center. He assists with dockside support throughout Southern New England and provides remote support for eMOLT systems and dockside tech teams between Maine and North Carolina. George also works with partners to secure funding for the program and ensure data delivery to end users.
 
--   [<i class="bi bi-telephone"></i>]{style="color: red;"}
--   {{< bi envelope>}}[Email](mailto:george.maynard@noaa.gov)
--   {{< bi LinkedIn>}}[LinkedIn](https://www.linkedin.com/in/georgeamaynard/)
+**Contact George:** [{{< bi telephone color=red >}}](tel:+15082999693)   [{{< bi envelope >}}](mailto:george.maynard@noaa.gov)   [{{< bi linkedin >}}](https://www.linkedin.com/in/georgeamaynard/)
 
 </div>
 ::::::

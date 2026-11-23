@@ -11,7 +11,8 @@ title: "South Coast MA, Rhode Island, and Connecticut"
 
 Cassie is a Research Assistant at the Coonamessett Farm Foundation where she supports a number of at-sea cooperative research projects. Cassie provides technical support to eMOLT participants on the South Coast of Massachusetts and Cape Cod.
 
--   [Email](ctillotson@cfarm.org)
+**Contact Cassandra:**
+[{{< bi envelope >}}](mailto:ctillotson@cfarm.org)
 
 </div>
 
@@ -21,7 +22,10 @@ Cassie is a Research Assistant at the Coonamessett Farm Foundation where she sup
 
 ![](samir-patel.avif)
 
-Samir is a Senior Research Biologist at the Coonamessett Farm Foundation where he manages a number of cooperative research projects offshore and around Cape Cod. Samir provides technical support for eMOLT participants on the South Shore and the South Coast of Massachusetts. - [Email](spatel@cfarm.org)
+Samir is a Senior Research Biologist at the Coonamessett Farm Foundation where he manages a number of cooperative research projects offshore and around Cape Cod. Samir provides technical support for eMOLT participants on the South Shore and the South Coast of Massachusetts.
+
+**Contact Samir:**
+[{{< bi envelope >}}](mailto:spatel@cfarm.org)
 
 </div>
 
@@ -33,8 +37,8 @@ Samir is a Senior Research Biologist at the Coonamessett Farm Foundation where h
 
 Luca McGinnis is a Research Biologist at the Commercial Fisheries Research Foundation where they work at sea on projects related to wind farm monitoring and biological data collection. They also provide technical support for eMOLT participants in Rhode Island and New Bedford.
 
--   [Email](lmcginnis@cfrfoundation.org)
--   [LinkedIn](https://www.linkedin.com/in/luca-mcginnis-5a9875170/)
+**Contact Luca:**
+[{{< bi envelope >}}](mailto:lmcginnis@cfrfoundation.org) &nbsp; [{{< bi linkedin >}}](https://www.linkedin.com/in/luca-mcginnis-5a9875170/)
 
 </div>
 
@@ -46,8 +50,9 @@ Luca McGinnis is a Research Biologist at the Commercial Fisheries Research Found
 
 Sarah is a Fisheries Biologist at the Northeast Fisheries Science Center's Narragansett Lab who supports cooperative research on commercially valuable forage species both at sea and in the lab. Sarah provides dockside support to eMOLT partners in Rhode Island and Connecticut, and develops new data products using observations from the program.
 
--   [Email](sarah.salois@noaa.gov)
--   [LinkedIn](https://www.linkedin.com/in/sarah-salois-946041355/)
+**Contact Sarah:**
+[{{< bi envelope >}}](mailto:sarah.salois@noaa.gov) &nbsp; [{{< bi linkedin >}}](https://www.linkedin.com/in/sarah-salois-946041355/)
+
 
 </div>
 :::::::
